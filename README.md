@@ -22,8 +22,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 742+ ECU mode
 | Honda | 8 |
 | Iveco | 7 |
 | Mitsubishi | 6 |
+| Isuzu | 6 |
 | Mazda | 5 |
-| Isuzu | 5 |
 | SsangYong | 4 |
 | SMART | 4 |
 | MAHINDRA | 3 |
