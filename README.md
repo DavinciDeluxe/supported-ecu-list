@@ -1,24 +1,24 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 807+ ECU models across 38+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 903+ ECU models across 59+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
-| Toyota - Lexus | 379 |
-| VAG | 111 |
-| BMW - Mini | 53 |
-| Ford | 45 |
-| Mercedes | 41 |
-| Opel - Cheverolet -  Vauxhall | 40 |
-| Renault - Dacia - Nissan | 38 |
-| PSA | 37 |
-| FCA | 32 |
-| Hyundai - Kia | 25 |
-| Volvo | 18 |
-| Land Rover - Jaguar | 14 |
-| Suzuki | 9 |
+| Toyota - Lexus | 381 |
+| VAG | 152 |
+| BMW - Mini | 60 |
+| PSA | 56 |
+| Renault - Dacia - Nissan | 53 |
+| Ford | 52 |
+| Mercedes | 47 |
+| Opel - Cheverolet -  Vauxhall | 45 |
+| FCA | 36 |
+| Hyundai - Kia | 29 |
+| Volvo | 20 |
+| Land Rover - Jaguar | 15 |
+| Suzuki | 11 |
 | Honda | 8 |
 | Iveco | 7 |
 | Mitsubishi | 6 |
@@ -26,23 +26,44 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 807+ ECU mode
 | Mazda | 5 |
 | SsangYong | 4 |
 | SMART | 4 |
+| CLAAS | 4 |
+| Porsche | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
+| CNH | 3 |
+| suzuki | 2 |
+| mazda | 2 |
+| iveco | 2 |
 | Smart | 2 |
 | MAXUS - LDV | 2 |
 | MAN | 2 |
-| CNH | 2 |
-| CLAAS | 2 |
 | CHERY | 2 |
+| CASE | 2 |
+| volkswagen passat B6 | 1 |
+| renailt | 1 |
+| range rover | 1 |
+| claas | 1 |
+| chevrolet | 1 |
+| VOLKSWAGEN | 1 |
+| VOGE | 1 |
 | Subaru | 1 |
 | RENAULT | 1 |
+| Merlo  TF40 | 1 |
 | Merlo | 1 |
+| Mazda 6 | 1 |
 | Maserati | 1 |
+| MB W212 | 1 |
 | Kubota | 1 |
 | JAC | 1 |
+| IVECO | 1 |
+| ISUZU | 1 |
+| HUNDAI | 1 |
 | Great Wall | 1 |
 | GEELY | 1 |
 | Ferrari | 1 |
+| Chrysler 300CC | 1 |
+| CITREON | 1 |
+| CHRYSLER | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 
