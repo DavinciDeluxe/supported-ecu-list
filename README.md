@@ -1,36 +1,39 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1045+ ECU models across 68+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1114+ ECU models across 75+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
-| Toyota - Lexus | 384 |
-| VAG | 227 |
-| BMW - Mini | 87 |
-| PSA | 81 |
-| Mercedes | 65 |
-| Renault - Dacia - Nissan | 62 |
-| Ford | 57 |
-| Opel - Chevrolet - Vauxhall | 49 |
+| Toyota - Lexus | 385 |
+| VAG | 241 |
+| PSA | 94 |
+| BMW - Mini | 91 |
+| Mercedes | 83 |
+| Renault - Dacia - Nissan | 67 |
+| Opel - Chevrolet - Vauxhall | 65 |
+| Ford | 63 |
+| FCA | 59 |
 | Opel - Cheverolet -  Vauxhall | 49 |
-| FCA | 48 |
-| Hyundai - Kia | 33 |
-| Volvo | 27 |
-| Land Rover - Jaguar | 17 |
-| Suzuki | 16 |
-| Honda | 12 |
+| Hyundai - Kia | 35 |
+| Volvo | 32 |
+| Land Rover - Jaguar | 26 |
+| Suzuki | 20 |
+| Honda | 16 |
+| Porsche | 12 |
+| Mitsubishi | 11 |
 | Iveco | 10 |
-| Mazda | 8 |
-| Mitsubishi | 7 |
+| Mazda | 9 |
+| Smart | 7 |
+| MG | 6 |
 | Isuzu | 6 |
-| Smart | 5 |
+| SsangYong | 5 |
+| Saab | 5 |
+| Maserati | 5 |
 | Claas | 5 |
-| SsangYong | 4 |
 | SMART | 4 |
 | CLAAS | 4 |
-| Porsche | 3 |
 | Mahindra | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
@@ -41,6 +44,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1045+ ECU mod
 | Merlo | 2 |
 | MAXUS - LDV | 2 |
 | MAN | 2 |
+| Lamborghini | 2 |
+| Ferrari | 2 |
 | Chery | 2 |
 | Case | 2 |
 | CHERY | 2 |
@@ -54,11 +59,12 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1045+ ECU mod
 | VOLKSWAGEN | 1 |
 | VOGE | 1 |
 | Subaru | 1 |
+| Rolls-Royce | 1 |
 | RENAULT | 1 |
 | Merlo  TF40 | 1 |
 | Mazda 6 | 1 |
-| Maserati | 1 |
 | MB W212 | 1 |
+| Lada | 1 |
 | Kubota | 1 |
 | JAC | 1 |
 | IVECO | 1 |
@@ -67,12 +73,13 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1045+ ECU mod
 | Great Wall | 1 |
 | Geely | 1 |
 | GEELY | 1 |
-| Ferrari | 1 |
 | Citroën | 1 |
 | Chrysler 300CC | 1 |
 | Chrysler | 1 |
 | CITREON | 1 |
 | CHRYSLER | 1 |
+| Bentley | 1 |
+| Aston Martin | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 
