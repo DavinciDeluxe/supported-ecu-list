@@ -1,33 +1,33 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1189+ ECU models across 76+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1216+ ECU models across 76+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
-| Toyota - Lexus | 391 |
-| VAG | 330 |
+| Toyota - Lexus | 392 |
+| VAG | 345 |
+| PSA | 103 |
 | BMW - Mini | 101 |
-| PSA | 100 |
-| Mercedes | 87 |
-| Renault - Dacia - Nissan | 72 |
-| Ford | 71 |
-| Opel - Chevrolet - Vauxhall | 68 |
-| FCA | 64 |
+| Mercedes | 92 |
+| Ford | 76 |
+| Renault - Dacia - Nissan | 75 |
+| Opel - Chevrolet - Vauxhall | 74 |
+| FCA | 65 |
 | Opel - Cheverolet -  Vauxhall | 58 |
-| Hyundai - Kia | 39 |
-| Volvo | 35 |
+| Hyundai - Kia | 40 |
+| Volvo | 38 |
 | Land Rover - Jaguar | 28 |
-| Suzuki | 22 |
+| Suzuki | 23 |
 | Honda | 17 |
 | Porsche | 12 |
 | Mitsubishi | 12 |
 | Mazda | 12 |
-| Iveco | 10 |
+| Iveco | 12 |
 | Smart | 7 |
+| MG | 7 |
 | Isuzu | 7 |
-| MG | 6 |
 | SsangYong | 5 |
 | Saab | 5 |
 | Maserati | 5 |
