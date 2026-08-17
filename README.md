@@ -1,29 +1,29 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1216+ ECU models across 76+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1270+ ECU models across 77+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
 | Toyota - Lexus | 392 |
-| VAG | 346 |
-| PSA | 103 |
-| BMW - Mini | 101 |
-| Mercedes | 93 |
-| Ford | 76 |
-| Renault - Dacia - Nissan | 75 |
-| Opel - Chevrolet - Vauxhall | 74 |
-| FCA | 65 |
+| VAG | 356 |
+| PSA | 118 |
+| BMW - Mini | 106 |
+| Mercedes | 94 |
+| Renault - Dacia - Nissan | 89 |
+| Ford | 78 |
+| Opel - Chevrolet - Vauxhall | 76 |
+| FCA | 68 |
 | Opel - Cheverolet -  Vauxhall | 58 |
-| Hyundai - Kia | 40 |
-| Volvo | 38 |
+| Hyundai - Kia | 41 |
+| Volvo | 40 |
 | Land Rover - Jaguar | 28 |
 | Suzuki | 23 |
 | Honda | 17 |
+| Mazda | 13 |
 | Porsche | 12 |
 | Mitsubishi | 12 |
-| Mazda | 12 |
 | Iveco | 12 |
 | Smart | 7 |
 | MG | 7 |
@@ -71,6 +71,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1216+ ECU mod
 | JAC | 1 |
 | IVECO | 1 |
 | ISUZU | 1 |
+| Hidromek | 1 |
 | HUNDAI | 1 |
 | Great Wall | 1 |
 | Geely | 1 |
