@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1304+ ECU models across 77+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1305+ ECU models across 77+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -33,8 +33,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1304+ ECU mod
 | Maserati | 5 |
 | Claas | 5 |
 | SMART | 4 |
+| Mahindra | 4 |
 | CLAAS | 4 |
-| Mahindra | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
 | CNH | 3 |
