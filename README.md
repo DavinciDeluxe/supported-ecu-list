@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1307+ ECU models across 148+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -12,9 +12,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1307+ ECU mod
 | BMW - Mini | 119 |
 | Mercedes | 98 |
 | Renault - Dacia - Nissan | 94 |
-| Ford | 80 |
+| Ford | 81 |
 | Opel - Chevrolet - Vauxhall | 76 |
-| FCA | 71 |
+| FCA | 72 |
 | Opel - Cheverolet -  Vauxhall | 58 |
 | Hyundai - Kia | 42 |
 | Volvo | 41 |
@@ -39,7 +39,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1307+ ECU mod
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
 | CNH | 3 |
+| vw | 2 |
 | suzuki | 2 |
+| renault | 2 |
 | mercedes | 2 |
 | mazda | 2 |
 | iveco | 2 |
@@ -47,6 +49,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1307+ ECU mod
 | Subaru | 2 |
 | SID807 | 2 |
 | SID209 | 2 |
+| RENAULT | 2 |
 | Merlo | 2 |
 | Maxus - LDV | 2 |
 | MAXUS - LDV | 2 |
@@ -61,11 +64,14 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1307+ ECU mod
 | volkswagen passat B6 | 1 |
 | renailt | 1 |
 | range rover | 1 |
+| lexus toyota | 1 |
+| kia | 1 |
 | claas | 1 |
 | chevrolet | 1 |
 | VOLKSWAGEN | 1 |
 | VOGE | 1 |
 | Tata | 1 |
+| TOYOTA | 1 |
 | SIMOS | 1 |
 | SID801-804 | 1 |
 | SID310 | 1 |
@@ -74,7 +80,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1307+ ECU mod
 | SID208 | 1 |
 | SID202-206 | 1 |
 | Rolls-Royce | 1 |
-| RENAULT | 1 |
+| Renault Arkana | 1 |
 | PCR2.1 | 1 |
 | Merlo  TF40 | 1 |
 | Mazda 6 | 1 |
