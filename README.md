@@ -7,7 +7,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU mod
 | Vehicle brand | ECU models |
 |---|---|
 | Toyota - Lexus | 395 |
-| VAG | 363 |
+| VAG | 364 |
 | PSA | 121 |
 | BMW - Mini | 119 |
 | Mercedes | 98 |
