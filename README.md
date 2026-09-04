@@ -1,47 +1,47 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1370+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
 | Toyota - Lexus | 395 |
-| VAG | 364 |
-| PSA | 121 |
-| BMW - Mini | 119 |
-| Mercedes | 98 |
-| Renault - Dacia - Nissan | 94 |
-| Ford | 81 |
-| Opel - Chevrolet - Vauxhall | 76 |
-| FCA | 72 |
+| VAG | 379 |
+| PSA | 124 |
+| BMW - Mini | 123 |
+| Mercedes | 103 |
+| Renault - Dacia - Nissan | 97 |
+| Ford | 87 |
+| Opel - Chevrolet - Vauxhall | 79 |
+| FCA | 75 |
 | Opel - Cheverolet -  Vauxhall | 58 |
-| Hyundai - Kia | 42 |
-| Volvo | 41 |
-| Land Rover - Jaguar | 29 |
-| Suzuki | 23 |
+| Hyundai - Kia | 45 |
+| Volvo | 43 |
+| Land Rover - Jaguar | 31 |
+| Suzuki | 25 |
 | Honda | 17 |
-| Mazda | 13 |
+| Mazda | 16 |
+| Iveco | 13 |
 | Porsche | 12 |
 | Mitsubishi | 12 |
-| Iveco | 12 |
+| MG | 10 |
+| Isuzu | 8 |
 | Smart | 7 |
-| MG | 7 |
-| Isuzu | 7 |
-| SsangYong | 5 |
+| SsangYong | 6 |
+| Maserati | 6 |
+| DENSO | 6 |
 | Saab | 5 |
-| Maserati | 5 |
 | Claas | 5 |
 | SMART | 4 |
 | Mahindra | 4 |
-| DENSO | 4 |
 | CLAAS | 4 |
+| vw | 3 |
+| renault | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
 | CNH | 3 |
-| vw | 2 |
 | suzuki | 2 |
-| renault | 2 |
 | mercedes | 2 |
 | mazda | 2 |
 | iveco | 2 |
@@ -49,18 +49,21 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU mod
 | Subaru | 2 |
 | SID807 | 2 |
 | SID209 | 2 |
+| Rolls-Royce | 2 |
 | RENAULT | 2 |
 | Merlo | 2 |
 | Maxus - LDV | 2 |
 | MAXUS - LDV | 2 |
 | MAN | 2 |
 | Lamborghini | 2 |
+| Lada | 2 |
 | Ferrari | 2 |
 | Chrysler | 2 |
 | Chery | 2 |
 | Case | 2 |
 | CHERY | 2 |
 | CASE | 2 |
+| Aston Martin | 2 |
 | volkswagen passat B6 | 1 |
 | renailt | 1 |
 | range rover | 1 |
@@ -79,7 +82,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU mod
 | SID305-6 | 1 |
 | SID208 | 1 |
 | SID202-206 | 1 |
-| Rolls-Royce | 1 |
 | Renault Arkana | 1 |
 | PCR2.1 | 1 |
 | Merlo  TF40 | 1 |
@@ -97,7 +99,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU mod
 | MD1CS003 | 1 |
 | MD1CP001 | 1 |
 | MB W212 | 1 |
-| Lada | 1 |
 | Kubota | 1 |
 | JAC | 1 |
 | IVECO | 1 |
@@ -158,7 +159,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1313+ ECU mod
 | CHRYSLER | 1 |
 | Bentley | 1 |
 | BMW | 1 |
-| Aston Martin | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 
