@@ -1,36 +1,36 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1370+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1377+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
-| Toyota - Lexus | 395 |
-| VAG | 379 |
-| PSA | 124 |
-| BMW - Mini | 123 |
-| Mercedes | 103 |
-| Renault - Dacia - Nissan | 97 |
-| Ford | 87 |
-| Opel - Chevrolet - Vauxhall | 79 |
-| FCA | 75 |
+| Toyota - Lexus | 399 |
+| VAG | 381 |
+| PSA | 126 |
+| BMW - Mini | 124 |
+| Mercedes | 104 |
+| Renault - Dacia - Nissan | 98 |
+| Ford | 88 |
+| Opel - Chevrolet - Vauxhall | 80 |
+| FCA | 76 |
 | Opel - Cheverolet -  Vauxhall | 58 |
-| Hyundai - Kia | 45 |
-| Volvo | 43 |
-| Land Rover - Jaguar | 31 |
-| Suzuki | 25 |
+| Hyundai - Kia | 46 |
+| Volvo | 44 |
+| Land Rover - Jaguar | 32 |
+| Suzuki | 26 |
+| Mazda | 17 |
 | Honda | 17 |
-| Mazda | 16 |
+| Mitsubishi | 13 |
 | Iveco | 13 |
 | Porsche | 12 |
-| Mitsubishi | 12 |
 | MG | 10 |
-| Isuzu | 8 |
+| Isuzu | 9 |
+| DENSO | 9 |
+| SsangYong | 7 |
 | Smart | 7 |
-| SsangYong | 6 |
 | Maserati | 6 |
-| DENSO | 6 |
 | Saab | 5 |
 | Claas | 5 |
 | SMART | 4 |
@@ -38,6 +38,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1370+ ECU mod
 | CLAAS | 4 |
 | vw | 3 |
 | renault | 3 |
+| Subaru | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
 | CNH | 3 |
@@ -46,7 +47,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1370+ ECU mod
 | mazda | 2 |
 | iveco | 2 |
 | Voge | 2 |
-| Subaru | 2 |
+| VOGE | 2 |
 | SID807 | 2 |
 | SID209 | 2 |
 | Rolls-Royce | 2 |
@@ -72,7 +73,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1370+ ECU mod
 | claas | 1 |
 | chevrolet | 1 |
 | VOLKSWAGEN | 1 |
-| VOGE | 1 |
 | Tata | 1 |
 | TOYOTA | 1 |
 | SIMOS | 1 |
