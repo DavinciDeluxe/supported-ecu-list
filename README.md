@@ -1,12 +1,12 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1377+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1380+ ECU models across 154+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
-| Toyota - Lexus | 399 |
+| Toyota - Lexus | 402 |
 | VAG | 381 |
 | PSA | 126 |
 | BMW - Mini | 124 |
@@ -25,9 +25,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1377+ ECU mod
 | Mitsubishi | 13 |
 | Iveco | 13 |
 | Porsche | 12 |
+| DENSO | 11 |
 | MG | 10 |
 | Isuzu | 9 |
-| DENSO | 9 |
 | SsangYong | 7 |
 | Smart | 7 |
 | Maserati | 6 |
@@ -39,6 +39,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1377+ ECU mod
 | vw | 3 |
 | renault | 3 |
 | Subaru | 3 |
+| RENAULT | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
 | CNH | 3 |
@@ -51,7 +52,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1377+ ECU mod
 | SID807 | 2 |
 | SID209 | 2 |
 | Rolls-Royce | 2 |
-| RENAULT | 2 |
 | Merlo | 2 |
 | Maxus - LDV | 2 |
 | MAXUS - LDV | 2 |
