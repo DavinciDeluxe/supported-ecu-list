@@ -64,6 +64,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1380+ ECU mod
 | Case | 2 |
 | CHERY | 2 |
 | CASE | 2 |
+| BMW | 2 |
 | Aston Martin | 2 |
 | volkswagen passat B6 | 1 |
 | renailt | 1 |
@@ -158,7 +159,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1380+ ECU mod
 | CITREON | 1 |
 | CHRYSLER | 1 |
 | Bentley | 1 |
-| BMW | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 
