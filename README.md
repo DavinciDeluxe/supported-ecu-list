@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1387+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1388+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -11,7 +11,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1387+ ECU mod
 | PSA | 127 |
 | BMW - Mini | 124 |
 | Mercedes | 104 |
-| Renault - Dacia - Nissan | 100 |
+| Renault - Dacia - Nissan | 101 |
 | Ford | 88 |
 | Opel - Chevrolet - Vauxhall | 80 |
 | FCA | 76 |
