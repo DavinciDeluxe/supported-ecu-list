@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1391+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1392+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -8,8 +8,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1391+ ECU mod
 |---|---|
 | Toyota - Lexus | 404 |
 | VAG | 381 |
+| PSA | 128 |
 | BMW - Mini | 128 |
-| PSA | 127 |
 | Mercedes | 104 |
 | Renault - Dacia - Nissan | 101 |
 | Ford | 88 |
@@ -183,6 +183,5 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1391+ ECU mod
 - 🌐 Website: **[davincideluxe.fr](https://www.davincideluxe.fr)**
 - ☁️ Cloud Tuning: [upload a file](https://www.davincideluxe.fr/profile)
 - 📋 Supported ECUs: [full list](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html) · [PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
-- 🎬 Demo: [YouTube](https://www.youtube.com/watch?v=x51fxDm_Z8E)
 
 <sub>ECU remapping · chiptuning · DPF EGR AdBlue delete · Stage 1/2/3 · automatic checksum correction · automotive tuning software.</sub>
