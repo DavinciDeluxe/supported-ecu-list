@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1395+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -45,6 +45,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1395+ ECU mod
 | RENAULT | 3 |
 | MAHINDRA | 3 |
 | DEUTZ | 3 |
+| Citroen | 3 |
 | Chrysler | 3 |
 | CNH | 3 |
 | suzuki | 2 |
@@ -56,6 +57,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1395+ ECU mod
 | SID807 | 2 |
 | SID209 | 2 |
 | Rolls-Royce | 2 |
+| Merlo  TF40 | 2 |
 | Merlo | 2 |
 | Maxus - LDV | 2 |
 | MAXUS - LDV | 2 |
@@ -64,7 +66,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1395+ ECU mod
 | Lada | 2 |
 | Hyundai | 2 |
 | Ferrari | 2 |
-| Citroen | 2 |
 | Chery | 2 |
 | Case | 2 |
 | CHERY | 2 |
@@ -93,7 +94,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1395+ ECU mod
 | Renault | 1 |
 | PCR2.1 | 1 |
 | Opel | 1 |
-| Merlo  TF40 | 1 |
 | Mazda 6 | 1 |
 | MEVD17.2.G | 1 |
 | MEVD17.2.9 | 1 |
