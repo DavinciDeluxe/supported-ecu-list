@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU models across 165+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1395+ ECU models across 168+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -15,7 +15,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | Ford | 88 |
 | Opel - Chevrolet - Vauxhall | 80 |
 | FCA | 76 |
-| Opel - Cheverolet -  Vauxhall | 58 |
+| Mercedes-Benz | 67 |
 | Hyundai - Kia | 46 |
 | Volvo | 44 |
 | Land Rover - Jaguar | 32 |
@@ -33,6 +33,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | Maserati | 6 |
 | renault | 5 |
 | Saab | 5 |
+| Renault | 5 |
 | MB | 5 |
 | Claas | 5 |
 | VW | 4 |
@@ -54,6 +55,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | iveco | 2 |
 | Voge | 2 |
 | VOGE | 2 |
+| Toyota | 2 |
 | SID807 | 2 |
 | SID209 | 2 |
 | Rolls-Royce | 2 |
@@ -66,6 +68,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | Lada | 2 |
 | Hyundai | 2 |
 | Ferrari | 2 |
+| Citroën | 2 |
 | Chery | 2 |
 | Case | 2 |
 | CHERY | 2 |
@@ -79,8 +82,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | kia | 1 |
 | claas | 1 |
 | chevrolet | 1 |
+| Volkswagen | 1 |
 | VOLKSWAGEN | 1 |
-| Toyota | 1 |
 | Tata | 1 |
 | TOYOTA | 1 |
 | SIMOS | 1 |
@@ -91,10 +94,11 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | SID208 | 1 |
 | SID202-206 | 1 |
 | Renault Arkana | 1 |
-| Renault | 1 |
 | PCR2.1 | 1 |
 | Opel | 1 |
+| Merlo TF40 | 1 |
 | Mazda 6 | 1 |
+| MINI | 1 |
 | MEVD17.2.G | 1 |
 | MEVD17.2.9 | 1 |
 | MEVD17.2.5 | 1 |
@@ -162,7 +166,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1396+ ECU mod
 | DCM6.1 | 1 |
 | DCM3.7 | 1 |
 | DCM3.4 | 1 |
-| Citroën | 1 |
 | Chrysler 300CC | 1 |
 | CRD3.x | 1 |
 | CRD2.x | 1 |
