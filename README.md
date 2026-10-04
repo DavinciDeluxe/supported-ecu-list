@@ -1,69 +1,70 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU models across 247+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU models across 257+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
-| Toyota - Lexus | 405 |
-| VAG | 384 |
+| Toyota - Lexus | 406 |
+| VAG | 385 |
 | BMW - Mini | 130 |
 | PSA | 128 |
 | Mercedes | 104 |
 | Renault - Dacia - Nissan | 101 |
-| Ford | 99 |
+| Ford | 100 |
 | Opel - Chevrolet - Vauxhall | 80 |
-| FCA | 76 |
-| MB | 73 |
-| Mercedes-Benz | 68 |
-| VW | 66 |
-| Audi | 60 |
+| MB | 78 |
+| FCA | 77 |
+| Mercedes-Benz | 70 |
+| VW | 69 |
+| Audi | 64 |
+| Peugeot | 57 |
+| BMW | 53 |
+| Opel | 52 |
 | Volvo | 51 |
-| Opel | 49 |
-| BMW | 47 |
+| Renault | 48 |
 | Hyundai - Kia | 46 |
-| Renault | 44 |
-| Peugeot | 38 |
 | Suzuki | 33 |
+| Nissan | 33 |
+| Citroen | 33 |
 | Land Rover - Jaguar | 32 |
-| Nissan | 30 |
-| Toyota | 29 |
-| Citroen | 29 |
+| Toyota | 31 |
+| Fiat | 26 |
+| Seat | 25 |
 | Mazda | 24 |
-| Seat | 22 |
-| Fiat | 21 |
-| Land Rover | 18 |
-| Skoda | 17 |
+| Land Rover | 21 |
+| Skoda | 18 |
 | Mitsubishi | 17 |
 | Honda | 17 |
 | Porsche | 16 |
+| Hyundai | 16 |
 | Mb | 15 |
-| Hyundai | 15 |
 | Iveco | 13 |
 | Vw | 12 |
+| Volkswagen | 11 |
 | Isuzu | 11 |
 | DENSO | 11 |
 | MG | 10 |
+| Kia | 10 |
 | Jaguar | 10 |
 | Smart | 9 |
 | Saab | 8 |
-| Kia | 8 |
 | Dacia | 8 |
 | Chevrolet | 8 |
 | WinOLS | 7 |
-| Volkswagen | 7 |
 | SsangYong | 7 |
 | Jeep | 7 |
+| Mini | 6 |
 | Maserati | 6 |
 | renault | 5 |
-| Mini | 5 |
+| Ssang Yong | 5 |
 | Lancia | 5 |
 | Claas | 5 |
+| Citroën | 5 |
 | CitroÃ«n | 5 |
 | Chrysler | 5 |
 | Subaru | 4 |
-| Ssang Yong | 4 |
 | SMART | 4 |
 | RENAULT | 4 |
 | Mahindra | 4 |
@@ -74,16 +75,18 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | Unknown | 3 |
 | Undefinied | 3 |
 | MAHINDRA | 3 |
+| Infinity | 3 |
 | Datong | 3 |
 | DEUTZ | 3 |
-| Citroën | 3 |
 | CNH | 3 |
 | Bmw | 3 |
+| Aston Martin | 3 |
 | suzuki | 2 |
 | mercedes | 2 |
 | mazda | 2 |
 | iveco | 2 |
 | Voge | 2 |
+| VOLKSWAGEN | 2 |
 | VOGE | 2 |
 | Tata | 2 |
 | SID807 | 2 |
@@ -103,7 +106,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | Lada | 2 |
 | Jac | 2 |
 | JMC | 2 |
-| Infinity | 2 |
 | Infiniti | 2 |
 | Ferrari | 2 |
 | DS | 2 |
@@ -112,7 +114,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | Case | 2 |
 | CHERY | 2 |
 | CASE | 2 |
-| Aston Martin | 2 |
 | Alfa Romeo | 2 |
 | ww | 1 |
 | volkswagen passat B6 | 1 |
@@ -124,12 +125,13 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | jhon deere | 1 |
 | claas | 1 |
 | chevrolet | 1 |
-| VOLKSWAGEN | 1 |
 | Unknown Unknown | 1 |
+| Undefined | 1 |
 | Tadano | 1 |
 | TOYOTA | 1 |
 | Shangqi | 1 |
 | Shagnqi | 1 |
+| Segway | 1 |
 | Saic | 1 |
 | SIMOS | 1 |
 | SID801-804 | 1 |
@@ -138,8 +140,10 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | SID305-6 | 1 |
 | SID208 | 1 |
 | SID202-206 | 1 |
+| SAME | 1 |
 | Rottne | 1 |
 | Renault Arkana | 1 |
+| PT cruiser | 1 |
 | PEugeot | 1 |
 | PCR2.1 | 1 |
 | Nissan Qashqai | 1 |
@@ -187,6 +191,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | Great Wall | 1 |
 | Geely | 1 |
 | GEELY | 1 |
+| Fordkugai | 1 |
 | FORD - FORD US | 1 |
 | FIAT Gunther Hasselt | 1 |
 | EDC7 | 1 |
@@ -238,9 +243,11 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | Cummings MFWD 280 | 1 |
 | Cummings ISC | 1 |
 | Cummings Buhler | 1 |
+| Class | 1 |
 | Citre | 1 |
 | Chrysler 300CC | 1 |
 | Challenger Cat MT835C | 1 |
+| Cf Moto | 1 |
 | Caterpillar C-15 | 1 |
 | Caterpillar | 1 |
 | CRD3.x | 1 |
@@ -251,7 +258,10 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1613+ ECU mod
 | Bobcat | 1 |
 | Bentley | 1 |
 | Bell | 1 |
+| Audiq5 | 1 |
+| Audia3 | 1 |
 | Astra | 1 |
+| Aebi Schmidt | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 
