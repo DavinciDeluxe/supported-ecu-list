@@ -19,7 +19,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU mod
 | Mercedes-Benz | 70 |
 | VW | 69 |
 | Audi | 64 |
-| Peugeot | 57 |
+| Peugeot | 61 |
 | BMW | 53 |
 | Opel | 52 |
 | Volvo | 51 |
@@ -57,11 +57,11 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU mod
 | Jeep | 7 |
 | Mini | 6 |
 | Maserati | 6 |
+| Citroën | 6 |
 | renault | 5 |
 | Ssang Yong | 5 |
 | Lancia | 5 |
 | Claas | 5 |
-| Citroën | 5 |
 | CitroÃ«n | 5 |
 | Chrysler | 5 |
 | Subaru | 4 |
