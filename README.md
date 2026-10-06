@@ -12,11 +12,11 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU mod
 | PSA | 128 |
 | Mercedes | 104 |
 | Renault - Dacia - Nissan | 101 |
-| Ford | 100 |
+| Ford | 101 |
 | Opel - Chevrolet - Vauxhall | 80 |
 | MB | 78 |
 | FCA | 77 |
-| Mercedes-Benz | 70 |
+| Mercedes-Benz | 71 |
 | VW | 69 |
 | Audi | 64 |
 | Peugeot | 61 |
@@ -40,9 +40,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU mod
 | Porsche | 16 |
 | Hyundai | 16 |
 | Mb | 15 |
+| Volkswagen | 13 |
 | Iveco | 13 |
 | Vw | 12 |
-| Volkswagen | 11 |
 | Isuzu | 11 |
 | DENSO | 11 |
 | MG | 10 |
@@ -64,6 +64,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU mod
 | Claas | 5 |
 | CitroÃ«n | 5 |
 | Chrysler | 5 |
+| VOLKSWAGEN | 4 |
 | Subaru | 4 |
 | SMART | 4 |
 | RENAULT | 4 |
@@ -86,7 +87,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 1639+ ECU mod
 | mazda | 2 |
 | iveco | 2 |
 | Voge | 2 |
-| VOLKSWAGEN | 2 |
 | VOGE | 2 |
 | Tata | 2 |
 | SID807 | 2 |
