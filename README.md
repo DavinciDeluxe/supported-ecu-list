@@ -31,7 +31,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Fiat | 59 |
 | Nissan | 52 |
 | Hyundai - Kia | 46 |
-| Toyota | 43 |
+| Toyota | 44 |
 | Land Rover | 42 |
 | Mazda | 41 |
 | Porsche | 39 |
@@ -75,6 +75,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Aston Martin | 5 |
 | SMART | 4 |
 | Range Rover | 4 |
+| Opel - Cheverolet -  Vauxhall | 4 |
 | Mahindra | 4 |
 | Holden | 4 |
 | Ferrari | 4 |
@@ -83,7 +84,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Unknown | 3 |
 | Undefinied | 3 |
 | Rover | 3 |
-| Opel - Cheverolet -  Vauxhall | 3 |
 | MAHINDRA | 3 |
 | Land-Rover | 3 |
 | Infinity | 3 |
@@ -101,6 +101,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Voge | 2 |
 | VOGE | 2 |
 | Tata | 2 |
+| TOYOTA | 2 |
 | SID807 | 2 |
 | SID209 | 2 |
 | Rolls-Royce | 2 |
@@ -146,7 +147,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Unknown Unknown | 1 |
 | Undefined | 1 |
 | Tadano | 1 |
-| TOYOTA | 1 |
 | Ssangyong | 1 |
 | Shangqi | 1 |
 | Shagnqi | 1 |
