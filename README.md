@@ -42,9 +42,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Kia | 28 |
 | Mitsubishi | 25 |
 | Mini | 24 |
+| Volkswagen | 23 |
 | Jeep | 23 |
 | Honda | 23 |
-| Volkswagen | 22 |
 | Dacia | 21 |
 | Jaguar | 19 |
 | Bmw | 16 |
