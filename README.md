@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU models across 308+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU models across 309+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -11,7 +11,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | VW | 194 |
 | Audi | 163 |
 | MB | 149 |
-| BMW | 134 |
+| BMW | 135 |
 | BMW - Mini | 130 |
 | PSA | 128 |
 | Ford | 128 |
@@ -40,9 +40,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Suzuki | 36 |
 | Land Rover - Jaguar | 32 |
 | Kia | 28 |
+| Volkswagen | 25 |
 | Mitsubishi | 25 |
 | Mini | 24 |
-| Volkswagen | 23 |
 | Jeep | 23 |
 | Honda | 23 |
 | Dacia | 21 |
@@ -58,8 +58,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | MG | 12 |
 | DENSO | 11 |
 | Chevrolet | 11 |
+| VOLKSWAGEN | 10 |
 | Dodge | 10 |
-| VOLKSWAGEN | 8 |
 | SsangYong | 8 |
 | RENAULT | 8 |
 | Citroën | 8 |
@@ -168,6 +168,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Renault Arkana | 1 |
 | Range | 1 |
 | PT cruiser | 1 |
+| PORSCHE | 1 |
 | PEugeot | 1 |
 | PEUGEOT | 1 |
 | PCR2.1 | 1 |
