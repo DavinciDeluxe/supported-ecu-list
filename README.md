@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU models across 309+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU models across 309+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -11,7 +11,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | VW | 194 |
 | Audi | 163 |
 | MB | 149 |
-| BMW | 135 |
+| BMW | 136 |
 | BMW - Mini | 130 |
 | PSA | 128 |
 | Ford | 128 |
@@ -20,9 +20,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Renault - Dacia - Nissan | 101 |
 | Peugeot | 83 |
 | Renault | 81 |
+| Opel - Chevrolet - Vauxhall | 81 |
 | Skoda | 80 |
-| Opel - Chevrolet - Vauxhall | 80 |
-| FCA | 77 |
+| FCA | 78 |
 | Citroen | 75 |
 | Seat | 73 |
 | Mercedes-Benz | 71 |
@@ -40,7 +40,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Suzuki | 36 |
 | Land Rover - Jaguar | 32 |
 | Kia | 28 |
-| Volkswagen | 25 |
+| Volkswagen | 26 |
 | Mitsubishi | 25 |
 | Mini | 24 |
 | Jeep | 23 |
@@ -56,9 +56,9 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Chrysler | 13 |
 | Subaru | 12 |
 | MG | 12 |
+| VOLKSWAGEN | 11 |
 | DENSO | 11 |
 | Chevrolet | 11 |
-| VOLKSWAGEN | 10 |
 | Dodge | 10 |
 | SsangYong | 8 |
 | RENAULT | 8 |
@@ -68,7 +68,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Ssang Yong | 7 |
 | Maserati | 7 |
 | Lancia | 7 |
-| Alfa Romeo | 6 |
+| Alfa Romeo | 7 |
 | renault | 5 |
 | Lexus | 5 |
 | Claas | 5 |
@@ -131,6 +131,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Bentley | 2 |
 | Astra | 2 |
 | Abarth | 2 |
+| ALFA ROMEO | 2 |
 | ww | 1 |
 | volkswagen passat B6 | 1 |
 | renailt | 1 |
@@ -313,7 +314,6 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2078+ ECU mod
 | Alpina | 1 |
 | Aebi Schmidt | 1 |
 | AUDI | 1 |
-| ALFA ROMEO | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
 
