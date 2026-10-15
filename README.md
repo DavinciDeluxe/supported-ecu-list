@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU models across 309+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2083+ ECU models across 310+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -13,13 +13,13 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU mod
 | MB | 149 |
 | BMW | 136 |
 | BMW - Mini | 130 |
+| Ford | 129 |
 | PSA | 128 |
-| Ford | 128 |
 | Mercedes | 108 |
 | Opel | 103 |
 | Renault - Dacia - Nissan | 101 |
 | Peugeot | 83 |
-| Renault | 81 |
+| Renault | 82 |
 | Opel - Chevrolet - Vauxhall | 81 |
 | Skoda | 80 |
 | FCA | 78 |
@@ -40,7 +40,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU mod
 | Suzuki | 36 |
 | Land Rover - Jaguar | 32 |
 | Kia | 28 |
-| Volkswagen | 26 |
+| Volkswagen | 27 |
 | Mitsubishi | 25 |
 | Mini | 24 |
 | Jeep | 23 |
@@ -60,8 +60,8 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU mod
 | DENSO | 11 |
 | Chevrolet | 11 |
 | Dodge | 10 |
+| RENAULT | 9 |
 | SsangYong | 8 |
-| RENAULT | 8 |
 | Citroën | 8 |
 | CitroÃ«n | 8 |
 | WinOLS | 7 |
@@ -70,12 +70,12 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU mod
 | Lancia | 7 |
 | Alfa Romeo | 7 |
 | renault | 5 |
+| Opel - Cheverolet -  Vauxhall | 5 |
 | Lexus | 5 |
 | Claas | 5 |
 | Aston Martin | 5 |
 | SMART | 4 |
 | Range Rover | 4 |
-| Opel - Cheverolet -  Vauxhall | 4 |
 | Mahindra | 4 |
 | Holden | 4 |
 | Ferrari | 4 |
@@ -162,6 +162,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2079+ ECU mod
 | SID305-6 | 1 |
 | SID208 | 1 |
 | SID202-206 | 1 |
+| SCANIA R450 | 1 |
 | SAME | 1 |
 | SAAB | 1 |
 | Rottne | 1 |
