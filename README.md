@@ -1,6 +1,6 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2882+ ECU models across 376+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2885+ ECU models across 376+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
@@ -26,11 +26,11 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2882+ ECU mod
 | Citroën | 117 |
 | Mercedes | 114 |
 | Seat | 109 |
+| Fiat | 109 |
 | Renault - Dacia - Nissan | 108 |
-| Fiat | 108 |
-| Nissan | 88 |
+| Nissan | 90 |
+| FCA | 89 |
 | Toyota | 86 |
-| FCA | 86 |
 | Vw | 85 |
 | Volvo | 85 |
 | Opel - Chevrolet - Vauxhall | 84 |
@@ -41,37 +41,37 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2882+ ECU mod
 | Hyundai | 60 |
 | OPEL | 56 |
 | Suzuki | 54 |
+| Mitsubishi | 52 |
 | Mini | 52 |
-| Mitsubishi | 51 |
 | Hyundai - Kia | 50 |
 | SKODA | 49 |
 | PEUGEOT | 47 |
 | Kia | 47 |
 | BMW - MINI | 44 |
+| RENAULT | 43 |
 | Mb | 43 |
 | VOLKSWAGEN | 41 |
-| RENAULT | 41 |
 | Jaguar | 39 |
 | Dacia | 38 |
 | Jeep | 37 |
 | Alfa | 34 |
 | Land Rover - Jaguar | 33 |
 | Subaru | 32 |
+| FIAT | 32 |
 | Chrysler | 32 |
-| FIAT | 31 |
 | MERCEDES | 30 |
 | Chevrolet | 30 |
+| VOLVO | 28 |
 | Alfa Romeo | 28 |
-| VOLVO | 27 |
 | Saab | 27 |
 | Honda | 26 |
 | NISSAN | 24 |
 | HYUNDAI | 24 |
+| MERCEDES-BENZ | 22 |
 | Opel - Cheverolet -  Vauxhall | 21 |
 | Smart | 20 |
 | Dodge | 20 |
 | ALFA ROMEO | 20 |
-| MERCEDES-BENZ | 19 |
 | TOYOTA | 18 |
 | Bmw | 18 |
 | MAZDA | 17 |
