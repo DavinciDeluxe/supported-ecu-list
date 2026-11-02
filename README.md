@@ -1,25 +1,25 @@
 # DaVinci Deluxe — Supported ECU List
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU models across 380+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2971+ ECU models across 387+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
 
 ## 🚗 Coverage by brand
 
 | Vehicle brand | ECU models |
 |---|---|
 | Toyota - Lexus | 407 |
-| VAG | 404 |
-| Volkswagen | 346 |
+| VAG | 405 |
+| Volkswagen | 347 |
 | Audi | 293 |
 | VW | 263 |
 | Mercedes-Benz | 260 |
-| Mercedes | 239 |
+| Mercedes | 243 |
 | BMW | 217 |
 | Opel | 207 |
+| AUDI | 202 |
 | Ford | 199 |
-| AUDI | 199 |
 | MB | 198 |
 | Peugeot | 180 |
-| BMW - Mini | 152 |
+| BMW - Mini | 154 |
 | Renault | 150 |
 | PSA | 137 |
 | Skoda | 126 |
@@ -32,45 +32,45 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | Nissan | 96 |
 | FCA | 91 |
 | Volvo | 90 |
-| Opel - Chevrolet - Vauxhall | 87 |
+| Opel - Chevrolet - Vauxhall | 88 |
 | Vw | 86 |
 | Mazda | 72 |
+| FORD | 70 |
 | Porsche | 67 |
-| FORD | 67 |
 | Land Rover | 64 |
 | Hyundai | 61 |
-| OPEL | 59 |
+| OPEL | 60 |
+| RENAULT | 57 |
 | Mini | 55 |
 | Suzuki | 54 |
-| RENAULT | 54 |
-| PEUGEOT | 52 |
+| PEUGEOT | 54 |
 | Mitsubishi | 52 |
-| Hyundai - Kia | 51 |
+| Hyundai - Kia | 52 |
 | SKODA | 50 |
-| MERCEDES-BENZ | 48 |
+| MERCEDES-BENZ | 49 |
 | Kia | 47 |
 | Alfa Romeo | 46 |
 | BMW - MINI | 45 |
 | Mb | 43 |
-| VOLKSWAGEN | 41 |
+| VOLKSWAGEN | 42 |
 | Jaguar | 41 |
 | Dacia | 39 |
 | Jeep | 37 |
 | Subaru | 36 |
 | Alfa | 35 |
+| FIAT | 34 |
 | Land Rover - Jaguar | 33 |
 | Chrysler | 33 |
-| FIAT | 32 |
+| VOLVO | 31 |
 | MERCEDES | 31 |
-| VOLVO | 30 |
 | Opel - Cheverolet -  Vauxhall | 30 |
 | Chevrolet | 30 |
+| HYUNDAI | 28 |
 | Saab | 27 |
 | NISSAN | 26 |
 | Honda | 26 |
-| HYUNDAI | 25 |
+| TOYOTA | 22 |
 | ALFA ROMEO | 22 |
-| TOYOTA | 21 |
 | Smart | 20 |
 | Dodge | 20 |
 | Bmw | 19 |
@@ -79,14 +79,14 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | MAZDA | 17 |
 | Ssang Yong | 16 |
 | Lexus | 16 |
+| Isuzu | 16 |
+| DACIA | 16 |
 | MINI | 15 |
 | MG | 15 |
 | LAND ROVER | 15 |
-| Isuzu | 15 |
-| DACIA | 15 |
-| CHEVROLET | 14 |
+| CHEVROLET | 15 |
+| MITSUBISHI | 14 |
 | SUBARU | 13 |
-| MITSUBISHI | 13 |
 | Land RoveR | 13 |
 | JEEP | 13 |
 | Iveco | 13 |
@@ -207,6 +207,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | inplace | 1 |
 | gwm | 1 |
 | gmw | 1 |
+| fiat egea | 1 |
 | ds | 1 |
 | claas | 1 |
 | chevrolet | 1 |
@@ -214,6 +215,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | VolVo | 1 |
 | Valtra | 1 |
 | VAN HOOL | 1 |
+| UnknownBrand | 1 |
 | Unknown Unknown | 1 |
 | Undefined | 1 |
 | Tate | 1 |
@@ -230,6 +232,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | SID305-6 | 1 |
 | SID208 | 1 |
 | SID202-206 | 1 |
+| SEAT | 1 |
 | SCANIA R450 | 1 |
 | SCANIA | 1 |
 | SAME | 1 |
@@ -271,6 +274,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | MC | 1 |
 | MB W212 | 1 |
 | MB Vito 110 | 1 |
+| MASERATI | 1 |
 | Lie | 1 |
 | Ldv | 1 |
 | LP560 | 1 |
@@ -294,6 +298,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | Gwm | 1 |
 | Gmc | 1 |
 | GWM | 1 |
+| GREAT WALL | 1 |
 | GEELY | 1 |
 | Fordkugai | 1 |
 | FIAT Gunther Hasselt | 1 |
@@ -336,6 +341,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | EDC15C4 | 1 |
 | EDC15 | 1 |
 | Donkervoort | 1 |
+| Dodge Ram | 1 |
 | Dfsk | 1 |
 | Damos | 1 |
 | DaimlerChrysler | 1 |
@@ -384,6 +390,7 @@ Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2969+ ECU mod
 | Aprilia | 1 |
 | Aebi Schmidt | 1 |
 | AEBI SCHMIDT | 1 |
+| ABARTH | 1 |
 | 3Peugeot | 1 |
 
 📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
