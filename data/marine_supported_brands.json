@@ -1,0 +1,126 @@
+{
+  "division": "DaVinci Deluxe Cloud Edition Boats",
+  "official_urls": [
+    "https://www.davincideluxe.fr/boats",
+    "https://www.davincideluxe.org/boats",
+    "https://www.davincideluxe.app/boats",
+    "https://www.davincideluxe.software/boats",
+    "https://www.davincideluxe.es/boats",
+    "https://www.davincideluxe.de/boats",
+    "https://www.davincideluxe.it/boats",
+    "https://www.aesoftech.eu/boats"
+  ],
+  "brand_count": 30,
+  "brands": [
+    {
+      "brand": "Volvo Penta",
+      "segment": "Inboard / IPS / Sterndrive",
+      "ecus": "Bosch EDC7UC31, EDC17CP22, EDC17CP52, EMS2.2, EMS2.3, EMS2.4, ME17 (D3, D4, D6, D8, D11, D13, V6/V8 Gas)"
+    },
+    {
+      "brand": "Mercury Marine",
+      "segment": "Outboard (Verado / ProXS / SeaPro / Racing)",
+      "ecus": "Motorola PCM09, PCM112, Bosch MED17 (150–600 HP V6/V8/V10/V12)"
+    },
+    {
+      "brand": "MerCruiser",
+      "segment": "Sterndrive / Inboard Gas & TDI",
+      "ecus": "PCM555, ECM555, Bosch EDC16/EDC17 TDI (4.5L, 6.2L, 8.2L MAG, Racing)"
+    },
+    {
+      "brand": "Yamaha Marine",
+      "segment": "Outboard (Offshore / XTO)",
+      "ecus": "Mitsubishi & Denso Marine EFI (F40–F350, V6 4.2L, XTO 425 / 450 V8)"
+    },
+    {
+      "brand": "Yamaha WaveRunner",
+      "segment": "PWC / Jet Ski",
+      "ecus": "Mitsubishi Marine ECU (1.8L SVHO Supercharged, 1.8L/1.9L HO, TR-1 EX/VX/FX/GP)"
+    },
+    {
+      "brand": "Sea-Doo (BRP Rotax)",
+      "segment": "PWC / Jet Boat",
+      "ecus": "Bosch ME17.8.5, Bosch MG1CA920, Siemens VDO MSE 3.7 (Spark, GTI, GTX, RXP-X, RXT-X 130–325 HP)"
+    },
+    {
+      "brand": "Suzuki Marine",
+      "segment": "Outboard (Lean Burn / Dual-Prop)",
+      "ecus": "Mitsubishi Marine MCU (DF40A–DF350A)"
+    },
+    {
+      "brand": "Honda Marine",
+      "segment": "Outboard VTEC & AquaTrax PWC",
+      "ecus": "Keihin SH7058 / SH72543 (BF40–BF250 & BF350 V8 VTEC)"
+    },
+    {
+      "brand": "Yanmar Marine",
+      "segment": "Inboard Common-Rail Diesel",
+      "ecus": "Bosch EDC17CV54, EDC16C39, Denso (4LV, 6LY, 6LF, 8LV)"
+    },
+    {
+      "brand": "Cummins Marine",
+      "segment": "Yacht & Commercial Workboat",
+      "ecus": "Motorola CM850, CM2150, CM2250, CM2350 (QSB 5.9/6.7, QSC 8.3, QSL 9, QSM 11)"
+    },
+    {
+      "brand": "Caterpillar Marine",
+      "segment": "Superyacht & Commercial Propulsion",
+      "ecus": "CAT ADEM III & ADEM IV (C7.1, C9.3, C12.9, C18, C32 ACERT)"
+    },
+    {
+      "brand": "MTU Friedrichshafen",
+      "segment": "Superyacht & Fast Ferry",
+      "ecus": "ADEC (ECU7 / ECU8 / ECU9) & MDEC Series 2000 / Series 4000"
+    },
+    {
+      "brand": "MAN Marine",
+      "segment": "High-Speed Yacht Diesel",
+      "ecus": "Bosch EDC7C32, EDC17CV42 (i6-800, V8-1000/1200/1300, V12-1550/1900/2000)"
+    },
+    {
+      "brand": "Scania Marine",
+      "segment": "Workboat & Patrol Craft",
+      "ecus": "EMS S6 / S7 / S8 (DI09, DI13, DI16 V8 Marine)"
+    },
+    {
+      "brand": "FPT Iveco Marine",
+      "segment": "Pleasure & Commercial Diesel",
+      "ecus": "Bosch EDC7UC31, EDC17CV41 (NEF N40/N60/N67, Cursor C9/C13/C16)"
+    },
+    {
+      "brand": "Kawasaki Jet Ski",
+      "segment": "Performance PWC",
+      "ecus": "Mitsubishi Marine ECU (Ultra 310X / 310LX Supercharged, Ultra 160LX, STX 160)"
+    },
+    {
+      "brand": "Evinrude E-TEC",
+      "segment": "Direct-Injection 2-Stroke Outboard",
+      "ecus": "EMM G1 & G2 Direct Injection Marine Controllers"
+    },
+    {
+      "brand": "Tohatsu Marine",
+      "segment": "Outboard",
+      "ecus": "Mitsubishi / Keihin Four-Stroke EFI Series (MFS 25–140 HP)"
+    },
+    {
+      "brand": "Selva Marine",
+      "segment": "Outboard",
+      "ecus": "Yamaha-derived Mitsubishi Marine EFI Series"
+    },
+    {
+      "brand": "Indmar & Ilmor Marine",
+      "segment": "Wakeboard / Towboat V8 Inboard",
+      "ecus": "MEFI / Continental / Bosch Direct-Injection Marine V8"
+    },
+    {
+      "brand": "Steyr Motors",
+      "segment": "Monoblock Marine Diesel",
+      "ecus": "Bosch EDC / Marine M14 / M16 / SE6 Controllers"
+    },
+    {
+      "brand": "Belassi Marine",
+      "segment": "Hypercraft Turbo PWC",
+      "ecus": "Bosch ME17 Marine Performance Turbo Controller"
+    }
+  ]
+}
