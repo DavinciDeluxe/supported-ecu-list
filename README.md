@@ -1,410 +1,108 @@
-# DaVinci Deluxe — Supported ECU List
+# DaVinci Deluxe Cloud Edition — Live Supported ECU List (5414+ ECUs)
 
-Live coverage snapshot for **DaVinci Deluxe · Cloud Edition** — 2977+ ECU models across 388+ vehicle brands. Bosch EDC15/16/17, MD1/MG1, ME/MED, Siemens/Continental SIMOS/PCR/SID, Delphi, Denso, Marelli and more.
+Machine-readable and human-readable coverage directory synchronized directly from the live **DaVinci Deluxe Cloud Edition (v1.0.44)** engines:
+- **Cars & Light Vans:** **4,962+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
+- **CLI Lookup Utility:** Run `python3 search_ecu.py EDC17C60` or `python3 search_ecu.py "MD1CS004"` locally, or upload your virgin readout directly to **[Check Your File Live](https://www.davincideluxe.fr/#check-file)**.
 
-## 🚗 Coverage by brand
+## 🚗 Cars & Vans Summary (82 Brands)
 
-| Vehicle brand | ECU models |
-|---|---|
-| VAG | 407 |
-| Toyota - Lexus | 407 |
-| Volkswagen | 347 |
-| Audi | 293 |
-| Mercedes-Benz | 263 |
-| Mercedes | 252 |
-| BMW | 217 |
-| AUDI | 212 |
-| Opel | 199 |
-| VW | 198 |
-| Ford | 187 |
-| Peugeot | 172 |
-| BMW - Mini | 153 |
-| Renault | 141 |
-| PSA | 137 |
-| MB | 136 |
-| Citroen | 126 |
-| Skoda | 122 |
-| Citroën | 116 |
-| Renault - Dacia - Nissan | 113 |
-| Seat | 112 |
-| Fiat | 107 |
-| OPEL | 103 |
-| FORD | 102 |
-| Toyota | 99 |
-| PEUGEOT | 98 |
-| FCA | 93 |
-| Opel - Chevrolet - Vauxhall | 89 |
-| Nissan | 88 |
-| RENAULT | 85 |
-| Vw | 81 |
-| Volvo | 78 |
-| BMW - MINI | 73 |
-| SKODA | 72 |
-| Mazda | 69 |
-| Porsche | 67 |
-| FIAT | 66 |
-| Land Rover | 63 |
-| Hyundai | 57 |
-| VOLVO | 54 |
-| Mini | 53 |
-| Suzuki | 52 |
-| NISSAN | 52 |
-| Hyundai - Kia | 52 |
-| MERCEDES-BENZ | 49 |
-| Kia | 47 |
-| Mitsubishi | 46 |
-| Alfa Romeo | 44 |
-| Mb | 43 |
-| Jaguar | 41 |
-| VOLKSWAGEN | 40 |
-| HYUNDAI | 40 |
-| Jeep | 36 |
-| Dacia | 36 |
-| Subaru | 34 |
-| Land Rover - Jaguar | 33 |
-| Chrysler | 33 |
-| TOYOTA | 32 |
-| Alfa | 32 |
-| Opel - Cheverolet -  Vauxhall | 31 |
-| MERCEDES | 31 |
-| MITSUBISHI | 29 |
-| MINI | 28 |
-| KIA | 28 |
-| Chevrolet | 28 |
-| Saab | 26 |
-| LAND ROVER | 26 |
-| Honda | 26 |
-| ALFA ROMEO | 25 |
-| MAZDA | 22 |
-| DACIA | 21 |
-| Smart | 20 |
-| SUZUKI | 20 |
-| Dodge | 20 |
-| CHEVROLET | 20 |
-| JEEP | 19 |
-| Bmw | 19 |
-| Lancia | 18 |
-| Land RoveR | 17 |
-| SUBARU | 16 |
-| Lexus | 16 |
-| Ssang Yong | 15 |
-| MG | 15 |
-| Isuzu | 14 |
-| Iveco | 13 |
-| HONDA | 13 |
-| SsangYong | 11 |
-| Generic | 11 |
-| Ferrari | 11 |
-| DENSO | 11 |
-| BMW_-_Mini | 11 |
-| WinOLS | 10 |
-| Unknown | 10 |
-| SAAB | 10 |
-| ISUZU | 10 |
-| SSANG YONG | 9 |
-| DS | 9 |
-| Renault_-_Dacia_-_Nissan | 8 |
-| Maserati | 8 |
-| CitroÃ«n | 8 |
-| Aston Martin | 8 |
-| vw | 7 |
-| Rover | 7 |
-| Lamborghini | 7 |
-| Astra | 7 |
-| Jac | 6 |
-| Infiniti | 6 |
-| Abarth | 6 |
-| renault | 5 |
-| SSANGYONG | 5 |
-| Range Rover | 5 |
-| JAC | 5 |
-| Infinity | 5 |
-| Hyundai_-_Kia | 5 |
-| Great Wall | 5 |
-| Claas | 5 |
-| SMART | 4 |
-| Opel_-_Chevrolet_-_Vauxhall | 4 |
-| OPEL GM - SATURN - VAUXHALL | 4 |
-| Mahindra | 4 |
-| Holden | 4 |
-| FORD - FORD US | 4 |
-| DEUTZ | 4 |
-| Changcheng | 4 |
-| Cadillac | 4 |
-| CLAAS | 4 |
-| CITROËN | 4 |
-| citroen | 3 |
-| Vauxhall | 3 |
-| Undefinied | 3 |
-| Tata | 3 |
-| Polaris | 3 |
-| Mercedes Benz | 3 |
-| McLaren | 3 |
-| Maxus | 3 |
-| MAHINDRA | 3 |
-| Land-Rover | 3 |
-| INFINITY | 3 |
-| Datong | 3 |
-| CNH | 3 |
-| Bentley | 3 |
-| suzuki | 2 |
-| peugeot | 2 |
-| mercedes | 2 |
-| mazda | 2 |
-| iveco | 2 |
-| infinity | 2 |
-| Voge | 2 |
-| VOGE | 2 |
-| V.A.G | 2 |
-| UnknownBrand | 2 |
-| Ssangyong | 2 |
-| SID807 | 2 |
-| SID209 | 2 |
-| SEAT | 2 |
-| SAIC | 2 |
-| Rolls-Royce | 2 |
-| PORSCHE | 2 |
-| PKW | 2 |
-| Multicar | 2 |
-| Mini cooper one R50 | 2 |
-| Merlo  TF40 | 2 |
-| Merlo | 2 |
-| Maxus - LDV | 2 |
-| Mack | 2 |
-| MAXUS - LDV | 2 |
-| MAN | 2 |
-| Lotus | 2 |
-| Lincoln | 2 |
-| Lada | 2 |
-| LDV | 2 |
-| JMC | 2 |
-| Infinty | 2 |
-| Geely | 2 |
-| GMC | 2 |
-| Deutz | 2 |
-| DELCO | 2 |
-| Cupra | 2 |
-| Citro_n | 2 |
-| Chery | 2 |
-| Changan | 2 |
-| Case | 2 |
-| Can-Am | 2 |
-| CaddyVW | 2 |
+| Vehicle Brand | Supported ECU Models |
+| :--- | :---: |
+| ABARTH | 42 |
+| ALFA ROMEO | 76 |
+| ALPINA | 2 |
+| ALPINE | 55 |
+| ASTON MARTIN | 5 |
+| AUDI | 294 |
+| BENTLEY | 241 |
+| BMW | 162 |
+| BORGWARD | 1 |
+| BRILLIANCE | 1 |
+| CADILLAC | 4 |
+| CHANGAN | 2 |
 | CHERY | 2 |
-| CF Moto | 2 |
-| CASE | 2 |
-| Bosch | 2 |
-| BMW 116D Fxx | 2 |
-| Alpina | 2 |
-| Alfa_Romeo | 2 |
-| ww | 1 |
-| volkswagen passat B6 | 1 |
-| renailt | 1 |
-| range rover | 1 |
-| maxforce | 1 |
-| lexus toyota | 1 |
-| lancia | 1 |
-| kia | 1 |
-| jhon deere | 1 |
-| inplace | 1 |
-| gwm | 1 |
-| gmw | 1 |
-| fiat egea | 1 |
-| ds | 1 |
-| claas | 1 |
-| chevrolet | 1 |
-| ZF | 1 |
-| VolVo | 1 |
-| Valtra | 1 |
-| VAN HOOL | 1 |
-| Unknown Unknown | 1 |
-| Undefined | 1 |
-| Tate | 1 |
-| Tadano | 1 |
-| Shangqi | 1 |
-| Shagnqi | 1 |
-| Segway | 1 |
-| Sangyong | 1 |
-| Saic | 1 |
-| SIMOS | 1 |
-| SID801-804 | 1 |
-| SID310 | 1 |
-| SID307 | 1 |
-| SID305-6 | 1 |
-| SID208 | 1 |
-| SID202-206 | 1 |
-| SCANIA R450 | 1 |
-| SCANIA | 1 |
-| SAME | 1 |
-| Rottne | 1 |
-| Roewe | 1 |
-| Renault Arkana | 1 |
-| Range | 1 |
-| RAM | 1 |
-| Plaris | 1 |
-| PT cruiser | 1 |
-| POLARIS | 1 |
-| PEugeot | 1 |
-| PCR2.1 | 1 |
-| Nissan Qashqai | 1 |
-| Mitsubischi | 1 |
-| Merlo TF40 | 1 |
-| Mercury | 1 |
-| Mercede | 1 |
-| Mazda 6 | 1 |
-| Manitud | 1 |
-| Mahindra XUV 500 | 1 |
-| Mack Trident | 1 |
-| Mack MP 10 | 1 |
-| Mack Granite | 1 |
-| MacDon M150 | 1 |
-| MacDon | 1 |
-| MEVD17.2.G | 1 |
-| MEVD17.2.9 | 1 |
-| MEVD17.2.5 | 1 |
-| MEVD17.2 | 1 |
-| MED17.7.x | 1 |
-| MED17.5.5 | 1 |
-| MED17.5 | 1 |
-| MED17.1.6x | 1 |
-| MD1CS006 | 1 |
-| MD1CS004 | 1 |
-| MD1CS003 | 1 |
-| MD1CP001 | 1 |
-| MC | 1 |
-| MB W212 | 1 |
-| MB Vito 110 | 1 |
-| MASERATI | 1 |
-| Lie | 1 |
-| Ldv | 1 |
-| LP560 | 1 |
-| Kubota | 1 |
-| King Long | 1 |
-| Kaessbohrer | 1 |
-| KTM | 1 |
-| KIA CEED | 1 |
-| KIA CARNIVAL | 1 |
-| KEINE ANGABE | 1 |
-| John Deer | 1 |
-| Jmc | 1 |
-| JHON DEEERE | 1 |
-| International | 1 |
-| IVECO | 1 |
-| Hymer | 1 |
-| Higer | 1 |
-| Hidromek | 1 |
-| Haval | 1 |
-| HUNDAI | 1 |
-| HUANGHAI | 1 |
-| Gwm | 1 |
-| Gmc | 1 |
-| GWM | 1 |
-| GREAT WALL | 1 |
-| GEELY | 1 |
-| Fordkugai | 1 |
-| FIAT Gunther Hasselt | 1 |
-| EDC7 | 1 |
-| EDC17CV41 | 1 |
-| EDC17CP45-CP49 | 1 |
-| EDC17CP44 | 1 |
-| EDC17CP20 | 1 |
-| EDC17CP14 | 1 |
-| EDC17CP11 | 1 |
-| EDC17CP07-CP37 | 1 |
-| EDC17CP02 | 1 |
-| EDC17C84 | 1 |
-| EDC17C81 | 1 |
-| EDC17C74 | 1 |
-| EDC17C70 | 1 |
-| EDC17C69 | 1 |
-| EDC17C66 | 1 |
-| EDC17C64 | 1 |
-| EDC17C60 | 1 |
-| EDC17C59 | 1 |
-| EDC17C58-CP58 | 1 |
-| EDC17C57 | 1 |
-| EDC17C54 | 1 |
-| EDC17C53-08 | 1 |
-| EDC17C50-C56 | 1 |
-| EDC17C50 | 1 |
-| EDC17C49 | 1 |
-| EDC17C46 | 1 |
-| EDC17C43-CP46 | 1 |
-| EDC17C42 | 1 |
-| EDC17C41 | 1 |
-| EDC17C10 | 1 |
-| EDC16CP33 | 1 |
-| EDC16C39 | 1 |
-| EDC16C36 | 1 |
-| EDC16C34 | 1 |
-| EDC16C31-EDC7C4 | 1 |
-| EDC16C31 | 1 |
-| EDC15C4 | 1 |
-| EDC15 | 1 |
-| Donkervoort | 1 |
-| Dodge Ram | 1 |
-| Dfsk | 1 |
-| Damos | 1 |
-| DaimlerChrysler | 1 |
-| DCM6.2 | 1 |
-| DCM6.1 | 1 |
-| DCM3.7 | 1 |
-| DCM3.4 | 1 |
-| DAF | 1 |
-| Cummins Tiger Cat 870C | 1 |
-| Cummins | 1 |
-| Cummings Miller Nitro 4365 | 1 |
-| Cummings MFWD 280 | 1 |
-| Cummings ISC | 1 |
-| Cummings Buhler | 1 |
-| Concorde | 1 |
-| Class | 1 |
-| Citroen Berlingo | 1 |
-| Citre | 1 |
-| Chuanqi | 1 |
-| Chrysler 300CC | 1 |
-| Chrysler -- Jeep | 1 |
-| Challenger Cat MT835C | 1 |
-| Cf Moto | 1 |
-| Caterpillar C-15 | 1 |
-| Caterpillar | 1 |
-| Can-AM | 1 |
-| Can AM | 1 |
-| CRD3.x | 1 |
-| CRD2.x | 1 |
-| CITROEN | 1 |
-| CITREON | 1 |
-| CHRYSLER | 1 |
-| CAN-AM-BRP | 1 |
-| Brilliance | 1 |
-| Borgward | 1 |
-| Bomag | 1 |
-| Bobcat | 1 |
-| Bell | 1 |
-| BORA 1,9 TDI | 1 |
-| BMW EDC16 | 1 |
-| BMW   EDC16 | 1 |
-| Audiq5 | 1 |
-| Audia3 | 1 |
-| Audi (K04-15 320cc TIP FMIC) | 1 |
-| Astra K | 1 |
-| Aprilia | 1 |
-| Aebi Schmidt | 1 |
-| AEBI SCHMIDT | 1 |
-| ABARTH | 1 |
-| 3Peugeot | 1 |
-
-📋 Full up-to-date list: **[cloud-tuning-supported-ecus](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html)** · [Supported List PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
-
-> Don't see your exact ECU? Upload your original .bin file to [Cloud Tuning](https://www.davincideluxe.fr/profile) — the engine analyses it and shows the exact available services, or try the free 10-minute trial.
+| CHEVROLET | 75 |
+| CHRYSLER | 75 |
+| CHUANQI | 1 |
+| CITROEN BERLINGO | 1 |
+| CITROËN | 117 |
+| CUPRA | 241 |
+| DACIA | 64 |
+| DFSK | 1 |
+| DODGE | 1 |
+| DONKERVOORT | 1 |
+| DS | 77 |
+| FERRARI | 10 |
+| FIAT | 106 |
+| FORD | 112 |
+| GEELY | 2 |
+| GMC | 2 |
+| GREAT WALL | 5 |
+| HAVAL | 1 |
+| HOLDEN | 2 |
+| HONDA | 16 |
+| HYUNDAI | 56 |
+| INFINITI | 57 |
+| ISUZU | 9 |
+| JAC | 6 |
+| JAGUAR | 33 |
+| JEEP | 73 |
+| JMC | 2 |
+| KIA | 47 |
+| LAMBORGHINI | 243 |
+| LANCIA | 69 |
+| LAND ROVER | 41 |
+| LDV | 3 |
+| LEXUS | 22 |
+| LINCOLN | 2 |
+| LOTUS | 2 |
+| MAHINDRA | 4 |
+| MASERATI | 6 |
+| MAXUS | 2 |
+| MAYBACH | 154 |
+| MAZDA | 36 |
+| MCLAREN | 3 |
+| MERCEDES-BENZ | 154 |
+| MERCURY | 1 |
+| MG | 6 |
+| MINI | 111 |
+| MITSUBISHI | 30 |
+| NISSAN | 81 |
+| OPEL | 138 |
+| PEUGEOT | 128 |
+| PORSCHE | 260 |
+| RAM | 63 |
+| RENAULT | 92 |
+| ROEWE | 1 |
+| ROVER | 6 |
+| SAAB | 14 |
+| SAIC | 2 |
+| SEAT | 252 |
+| SKODA | 257 |
+| SMART | 166 |
+| SSANGYONG | 6 |
+| SUBARU | 15 |
+| SUZUKI | 33 |
+| TATA | 3 |
+| TOYOTA | 50 |
+| UNKNOWNBRAND | 1 |
+| VAUXHALL | 61 |
+| VOLKSWAGEN | 316 |
+| VOLVO | 48 |
 
 
 ---
 
-### 🔗 DaVinci Deluxe · Cloud Edition
+### ⚠️ 100% Virgin Original ECU File Policy & 24h/7 Engineering Support
 
-- 🌐 Website: **[davincideluxe.fr](https://www.davincideluxe.fr)**
-- ☁️ Cloud Tuning: [upload a file](https://www.davincideluxe.fr/profile)
-- 📋 Supported ECUs: [full list](https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html) · [PDF](https://www.davincideluxe.fr/DaVinci_Deluxe_Supported_List.pdf)
+- **Virgin Original Reads Only:** Always upload **100% original, unmodified ECU files** read directly from the vehicle. Previously modified or tuned files cause bad map detection and errors — **DaVinci Deluxe Cloud Edition** strictly recommends working exclusively on virgin original reads.
+- **24h/7 Live Support (365 Days/Year, Holidays Included):** Whenever you encounter a tricky vehicle or diagnostic procedure, send photos, videos, audio notes or ECU logs in **any language** — our engineering team guides you step-by-step until the vehicle runs 100% right.
 
-<sub>ECU remapping · chiptuning · DPF EGR AdBlue delete · Stage 1/2/3 · automatic checksum correction · automotive tuning software.</sub>
+### 🔗 Official DaVinci Deluxe Cloud Edition Links
+
+- 🌐 **Official Website:** **[www.davincideluxe.fr](https://www.davincideluxe.fr)**
+- 🚛 **Trucks, Agriculture & Heavy-Duty Engine:** **[www.davincideluxe.fr/trucks.html](https://www.davincideluxe.fr/trucks.html)**
+- ☁️ **Online Cloud Tuning (Pay-Per-Use, Tokens Never Expire):** **[www.davincideluxe.fr/online-ecu-tuning](https://www.davincideluxe.fr/online-ecu-tuning)**
+- 🛒 **Official Digital Shop (300+ DAMOS, A2L, ORI & Pinouts):** **[www.davincideluxe.fr/shop](https://www.davincideluxe.fr/shop)**
+- 📘 **Developer & ECU Coverage Portal:** **[davincideluxe.github.io](https://davincideluxe.github.io)**
