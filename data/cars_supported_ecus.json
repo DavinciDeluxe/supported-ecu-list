@@ -1,7 +1,7 @@
 {
   "version": "v1.0.44",
   "brand_count": 82,
-  "ecu_count": 4962,
+  "ecu_count": 4964,
   "byBrand": {
     "BMW": [
       "8HP",
@@ -2046,6 +2046,7 @@
       "ME7.4.7",
       "ME7.4.X",
       "ME7.5",
+      "ME7.9.5",
       "ME7.9.51",
       "ME7.9.52",
       "ME9.0C",
@@ -5126,6 +5127,9 @@
     ],
     "DODGE": [
       "EDC17C79"
+    ],
+    "RENAULLT CLIO": [
+      "SIM32"
     ]
   }
 }
