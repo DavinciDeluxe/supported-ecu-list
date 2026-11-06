@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "5417+ Supported Car, 24V Truck, Tractor & Marine Boat ECUs — Live Compatibility Matrix (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/cloud-tuning-supported-ecus.html"
+repository-code: "https://github.com/DavinciDeluxe/supported-ecu-list"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
