@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
-Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.44)** engines:
-- **Cars & Light Vans:** **4,964+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
+- **Cars & Light Vans:** **4,973+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -12,9 +12,9 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ALPINA | 2 |
 | ALPINE | 55 |
 | ASTON MARTIN | 5 |
-| AUDI | 294 |
-| BENTLEY | 241 |
-| BMW | 162 |
+| AUDI | 295 |
+| BENTLEY | 242 |
+| BMW | 163 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
 | CADILLAC | 4 |
@@ -23,9 +23,8 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHEVROLET | 75 |
 | CHRYSLER | 75 |
 | CHUANQI | 1 |
-| CITROEN BERLINGO | 1 |
-| CITROËN | 117 |
-| CUPRA | 241 |
+| CITROËN | 118 |
+| CUPRA | 242 |
 | DACIA | 64 |
 | DFSK | 1 |
 | DODGE | 1 |
@@ -48,7 +47,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | JEEP | 73 |
 | JMC | 2 |
 | KIA | 47 |
-| LAMBORGHINI | 243 |
+| LAMBORGHINI | 244 |
 | LANCIA | 69 |
 | LAND ROVER | 41 |
 | LDV | 3 |
@@ -65,29 +64,27 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MERCURY | 1 |
 | MG | 6 |
 | MINI | 111 |
-| MITSUBISHI | 30 |
+| MITSUBISHI | 31 |
 | NISSAN | 81 |
 | OPEL | 138 |
 | PEUGEOT | 129 |
-| PORSCHE | 260 |
+| PORSCHE | 261 |
 | RAM | 63 |
-| RENAULLT CLIO | 1 |
 | RENAULT | 92 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 14 |
 | SAIC | 2 |
-| SEAT | 252 |
-| SKODA | 257 |
+| SEAT | 253 |
+| SKODA | 259 |
 | SMART | 166 |
 | SSANGYONG | 6 |
 | SUBARU | 15 |
 | SUZUKI | 33 |
 | TATA | 3 |
 | TOYOTA | 50 |
-| UNKNOWNBRAND | 1 |
 | VAUXHALL | 61 |
-| VOLKSWAGEN | 316 |
+| VOLKSWAGEN | 317 |
 | VOLVO | 48 |
 
 
