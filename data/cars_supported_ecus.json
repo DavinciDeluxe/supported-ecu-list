@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.44",
+  "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 4964,
+  "ecu_count": 4973,
   "byBrand": {
     "BMW": [
       "8HP",
@@ -51,6 +51,7 @@
       "EDC17CP06",
       "EDC17CP09",
       "EDC17CP45-CP49",
+      "EDC17CP50",
       "EDC17_C50_C56",
       "EMS2",
       "M5.2",
@@ -1689,6 +1690,7 @@
       "EDC17C49",
       "EDC17CP15",
       "EDC17CP52",
+      "EDC7C4",
       "HITACHI",
       "MELCO 8115",
       "MM9O",
@@ -2198,6 +2200,7 @@
       "MM6LP1",
       "MP5.1",
       "S2000",
+      "SID",
       "SID201",
       "SID206",
       "SID208",
@@ -2794,6 +2797,7 @@
       "AL1000",
       "AL450",
       "AL551",
+      "BoschEDC16U31",
       "C64",
       "CRD3.X",
       "DCM3.5",
@@ -3111,6 +3115,7 @@
       "AL551",
       "AL552",
       "ALX51",
+      "BoschEDC16U31",
       "CP44",
       "CRD3",
       "CRD3.X",
@@ -3400,6 +3405,7 @@
       "ZF6HP19"
     ],
     "SEAT": [
+      "BoschEDC16U31",
       "CRD3.X",
       "DCM3.5",
       "DCM3.7",
@@ -3655,6 +3661,7 @@
     ],
     "SKODA": [
       "7GV",
+      "BoschEDC16U31",
       "CRD3.X",
       "DCM3.5",
       "DCM3.7",
@@ -3910,9 +3917,11 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
-      "SIROCO"
+      "SIROCO",
+      "SimosPPD1.2"
     ],
     "CUPRA": [
+      "BoschEDC16U31",
       "CRD3.X",
       "DCM3.5",
       "DCM3.7",
@@ -4157,6 +4166,7 @@
     ],
     "PORSCHE": [
       "AL552",
+      "BoschEDC16U31",
       "CRD3.X",
       "DCM3.5",
       "DCM3.7",
@@ -4418,6 +4428,7 @@
       "SIROCO"
     ],
     "LAMBORGHINI": [
+      "BoschEDC16U31",
       "CAMPI",
       "CRD3.X",
       "DCM3.5",
@@ -4663,6 +4674,7 @@
       "SIROCO"
     ],
     "BENTLEY": [
+      "BoschEDC16U31",
       "CRD3.X",
       "DCM3.5",
       "DCM3.7",
@@ -5119,17 +5131,8 @@
       "EDC16C31",
       "EDC17CP18"
     ],
-    "CITROEN BERLINGO": [
-      "SID"
-    ],
-    "UNKNOWNBRAND": [
-      "DCM6.2"
-    ],
     "DODGE": [
       "EDC17C79"
-    ],
-    "RENAULLT CLIO": [
-      "SIM32"
     ]
   }
 }
