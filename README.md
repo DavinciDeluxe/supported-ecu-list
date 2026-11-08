@@ -39,7 +39,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | HAVAL | 1 |
 | HOLDEN | 2 |
 | HONDA | 16 |
-| HYUNDAI | 56 |
+| HYUNDAI | 57 |
 | INFINITI | 57 |
 | ISUZU | 9 |
 | JAC | 6 |
@@ -85,7 +85,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | TOYOTA | 50 |
 | VAUXHALL | 61 |
 | VOLKSWAGEN | 317 |
-| VOLVO | 48 |
+| VOLVO | 47 |
 
 
 ---
