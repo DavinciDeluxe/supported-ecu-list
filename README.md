@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **4,973+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **4,982+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -12,9 +12,9 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ALPINA | 2 |
 | ALPINE | 55 |
 | ASTON MARTIN | 5 |
-| AUDI | 295 |
-| BENTLEY | 242 |
-| BMW | 163 |
+| AUDI | 296 |
+| BENTLEY | 243 |
+| BMW | 164 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
 | CADILLAC | 4 |
@@ -24,7 +24,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHRYSLER | 75 |
 | CHUANQI | 1 |
 | CITROËN | 118 |
-| CUPRA | 242 |
+| CUPRA | 243 |
 | DACIA | 64 |
 | DFSK | 1 |
 | DODGE | 1 |
@@ -32,7 +32,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | DS | 77 |
 | FERRARI | 10 |
 | FIAT | 106 |
-| FORD | 112 |
+| FORD | 113 |
 | GEELY | 2 |
 | GMC | 2 |
 | GREAT WALL | 5 |
@@ -47,7 +47,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | JEEP | 73 |
 | JMC | 2 |
 | KIA | 47 |
-| LAMBORGHINI | 244 |
+| LAMBORGHINI | 245 |
 | LANCIA | 69 |
 | LAND ROVER | 41 |
 | LDV | 3 |
@@ -67,8 +67,8 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MITSUBISHI | 31 |
 | NISSAN | 81 |
 | OPEL | 138 |
-| PEUGEOT | 129 |
-| PORSCHE | 261 |
+| PEUGEOT | 130 |
+| PORSCHE | 262 |
 | RAM | 63 |
 | RENAULT | 92 |
 | ROEWE | 1 |
@@ -76,7 +76,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | SAAB | 14 |
 | SAIC | 2 |
 | SEAT | 253 |
-| SKODA | 259 |
+| SKODA | 260 |
 | SMART | 166 |
 | SSANGYONG | 6 |
 | SUBARU | 15 |
