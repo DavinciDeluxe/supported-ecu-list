@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **4,982+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **4,998+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -12,8 +12,8 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ALPINA | 2 |
 | ALPINE | 55 |
 | ASTON MARTIN | 5 |
-| AUDI | 296 |
-| BENTLEY | 243 |
+| AUDI | 297 |
+| BENTLEY | 245 |
 | BMW | 164 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
@@ -24,7 +24,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHRYSLER | 75 |
 | CHUANQI | 1 |
 | CITROËN | 118 |
-| CUPRA | 243 |
+| CUPRA | 245 |
 | DACIA | 64 |
 | DFSK | 1 |
 | DODGE | 1 |
@@ -47,7 +47,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | JEEP | 73 |
 | JMC | 2 |
 | KIA | 47 |
-| LAMBORGHINI | 245 |
+| LAMBORGHINI | 247 |
 | LANCIA | 69 |
 | LAND ROVER | 41 |
 | LDV | 3 |
@@ -57,27 +57,27 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MAHINDRA | 4 |
 | MASERATI | 6 |
 | MAXUS | 2 |
-| MAYBACH | 154 |
+| MAYBACH | 155 |
 | MAZDA | 36 |
 | MCLAREN | 3 |
-| MERCEDES-BENZ | 154 |
+| MERCEDES-BENZ | 155 |
 | MERCURY | 1 |
 | MG | 6 |
-| MINI | 111 |
+| MINI | 112 |
 | MITSUBISHI | 31 |
 | NISSAN | 81 |
 | OPEL | 138 |
 | PEUGEOT | 130 |
-| PORSCHE | 262 |
+| PORSCHE | 264 |
 | RAM | 63 |
 | RENAULT | 92 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 14 |
 | SAIC | 2 |
-| SEAT | 253 |
-| SKODA | 260 |
-| SMART | 166 |
+| SEAT | 254 |
+| SKODA | 262 |
+| SMART | 167 |
 | SSANGYONG | 6 |
 | SUBARU | 15 |
 | SUZUKI | 33 |
