@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,003+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **4,962+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -10,83 +10,81 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ABARTH | 42 |
 | ALFA ROMEO | 76 |
 | ALPINA | 2 |
-| ALPINE | 55 |
-| ASTON MARTIN | 5 |
-| AUDI | 300 |
-| BENTLEY | 245 |
-| BMW | 164 |
+| ALPINE | 53 |
+| ASTON MARTIN | 4 |
+| AUDI | 277 |
+| BENTLEY | 240 |
+| BMW | 151 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
 | CADILLAC | 4 |
 | CHANGAN | 2 |
 | CHERY | 2 |
 | CHEVROLET | 75 |
-| CHRYSLER | 75 |
+| CHRYSLER | 69 |
 | CHUANQI | 1 |
-| CITROËN | 118 |
-| CUPRA | 245 |
-| DACIA | 64 |
+| CITROËN | 111 |
+| CUPRA | 240 |
+| DACIA | 62 |
 | DFSK | 1 |
 | DODGE | 1 |
 | DONKERVOORT | 1 |
 | DS | 77 |
 | FERRARI | 10 |
-| FIAT | 106 |
-| FORD | 113 |
+| FIAT | 105 |
+| FORD | 99 |
 | GEELY | 2 |
 | GMC | 2 |
 | GREAT WALL | 5 |
 | HAVAL | 1 |
 | HOLDEN | 2 |
-| HONDA | 16 |
-| HYUNDAI | 57 |
-| INFINITI | 57 |
-| ISUZU | 9 |
+| HONDA | 15 |
+| HYUNDAI | 52 |
+| INFINITI | 55 |
+| ISUZU | 8 |
 | JAC | 6 |
-| JAGUAR | 33 |
-| JEEP | 73 |
+| JAGUAR | 37 |
+| JEEP | 71 |
 | JMC | 2 |
 | KIA | 47 |
-| LAMBORGHINI | 247 |
+| LAMBORGHINI | 242 |
 | LANCIA | 69 |
-| LAND ROVER | 41 |
+| LAND ROVER | 42 |
 | LDV | 3 |
-| LEXUS | 22 |
+| LEXUS | 19 |
 | LINCOLN | 2 |
 | LOTUS | 2 |
 | MAHINDRA | 4 |
 | MASERATI | 6 |
 | MAXUS | 2 |
-| MAYBACH | 155 |
-| MAZDA | 36 |
+| MAYBACH | 145 |
+| MAZDA | 22 |
 | MCLAREN | 3 |
-| MERCEDES-BENZ | 155 |
-| MERCURY | 1 |
+| MERCEDES-BENZ | 145 |
 | MG | 6 |
-| MINI | 113 |
-| MITSUBISHI | 31 |
-| NISSAN | 81 |
-| OPEL | 138 |
-| PEUGEOT | 130 |
-| PORSCHE | 264 |
+| MINI | 107 |
+| MITSUBISHI | 23 |
+| NISSAN | 67 |
+| OPEL | 125 |
+| PEUGEOT | 122 |
+| PORSCHE | 259 |
 | RAM | 63 |
-| RENAULT | 92 |
+| RENAULT | 80 |
 | ROEWE | 1 |
 | ROVER | 6 |
-| SAAB | 14 |
+| SAAB | 12 |
 | SAIC | 2 |
-| SCANIA P-R-T  500 | 1 |
-| SEAT | 254 |
-| SKODA | 262 |
-| SMART | 167 |
+| SEAT | 249 |
+| SKODA | 256 |
+| SMART | 155 |
 | SSANGYONG | 6 |
-| SUBARU | 15 |
-| SUZUKI | 33 |
+| SUBARU | 10 |
+| SUZUKI | 31 |
 | TATA | 3 |
-| TOYOTA | 50 |
+| TOYOTA | 36 |
 | VAUXHALL | 61 |
-| VOLKSWAGEN | 317 |
-| VOLVO | 47 |
+| VOLKSWAGEN | 299 |
+| VOLVO | 46 |
 
 
 ---
