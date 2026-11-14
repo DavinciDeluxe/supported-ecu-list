@@ -1,7 +1,7 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5139,
+  "ecu_count": 5150,
   "byBrand": {
     "BMW": [
       "8HP",
@@ -308,6 +308,7 @@
     ],
     "FIAT": [
       "8F3.B1",
+      "8GMF",
       "9DF",
       "9GF",
       "CRD2.X",
@@ -418,6 +419,7 @@
       "VDO"
     ],
     "ALFA ROMEO": [
+      "8GMF",
       "9DF",
       "9GF",
       "CRD2.X",
@@ -500,6 +502,7 @@
       "VDO"
     ],
     "LANCIA": [
+      "8GMF",
       "9DF",
       "9GF",
       "CRD2.X",
@@ -575,6 +578,7 @@
       "VDO"
     ],
     "JEEP": [
+      "8GMF",
       "9DF",
       "9GF",
       "CRD2",
@@ -652,6 +656,7 @@
       "VDO"
     ],
     "ABARTH": [
+      "8GMF",
       "9DF",
       "9GF",
       "DELCO",
@@ -700,6 +705,7 @@
       "VDO"
     ],
     "CHRYSLER": [
+      "8GMF",
       "9DF",
       "9GF",
       "CMB849",
@@ -775,6 +781,7 @@
       "VDO"
     ],
     "RAM": [
+      "8GMF",
       "9DF",
       "9GF",
       "CRD2.X",
@@ -1098,6 +1105,7 @@
       "EDC17CP55",
       "MB279700",
       "MD1CP007",
+      "MD1CS007",
       "MED17.0",
       "MED17.1.9",
       "MED17.2",
@@ -1139,6 +1147,7 @@
       "EDC17CP55",
       "MB079700",
       "MD1CP007",
+      "MD1CS007",
       "MED17.0",
       "MED17.0.1",
       "MED17.1.9",
@@ -3326,6 +3335,7 @@
       "MG1CS011",
       "MG1CS031",
       "MG1CS111",
+      "MJD6F3",
       "MSA15",
       "MSB15",
       "PCR 2.1",
@@ -3381,6 +3391,7 @@
       "SIMOS3.2",
       "SIMOS3.3",
       "SIMOS3.3A",
+      "SIMOS3PE",
       "SIMOS4",
       "SIMOS6",
       "SIMOS6.2-3",
