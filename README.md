@@ -1,18 +1,18 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,139+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **5,150+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
 | Vehicle Brand | Supported ECU Models |
 | :--- | :---: |
-| ABARTH | 46 |
-| ALFA ROMEO | 80 |
+| ABARTH | 47 |
+| ALFA ROMEO | 81 |
 | ALPINA | 2 |
 | ALPINE | 53 |
 | ASTON MARTIN | 4 |
-| AUDI | 289 |
+| AUDI | 291 |
 | BENTLEY | 274 |
 | BMW | 158 |
 | BORGWARD | 1 |
@@ -21,7 +21,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHANGAN | 2 |
 | CHERY | 2 |
 | CHEVROLET | 120 |
-| CHRYSLER | 73 |
+| CHRYSLER | 74 |
 | CHUANQI | 1 |
 | CITROËN | 112 |
 | CUPRA | 274 |
@@ -31,7 +31,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | DONKERVOORT | 1 |
 | DS | 79 |
 | FERRARI | 11 |
-| FIAT | 109 |
+| FIAT | 110 |
 | FORD | 99 |
 | GEELY | 2 |
 | GMC | 2 |
@@ -43,13 +43,13 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | INFINITI | 55 |
 | ISUZU | 8 |
 | JAC | 6 |
-| JAGUAR | 37 |
-| JEEP | 75 |
+| JAGUAR | 38 |
+| JEEP | 76 |
 | JMC | 2 |
 | KIA | 48 |
 | LAMBORGHINI | 276 |
-| LANCIA | 73 |
-| LAND ROVER | 42 |
+| LANCIA | 74 |
+| LAND ROVER | 43 |
 | LDV | 3 |
 | LEXUS | 19 |
 | LINCOLN | 2 |
@@ -68,7 +68,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | OPEL | 126 |
 | PEUGEOT | 122 |
 | PORSCHE | 291 |
-| RAM | 67 |
+| RAM | 68 |
 | RENAULT | 80 |
 | ROEWE | 1 |
 | ROVER | 6 |
