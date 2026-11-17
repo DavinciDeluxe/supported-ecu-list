@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,150+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **5,157+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -13,7 +13,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ALPINE | 53 |
 | ASTON MARTIN | 4 |
 | AUDI | 291 |
-| BENTLEY | 274 |
+| BENTLEY | 275 |
 | BMW | 158 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
@@ -24,7 +24,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHRYSLER | 74 |
 | CHUANQI | 1 |
 | CITROËN | 112 |
-| CUPRA | 274 |
+| CUPRA | 275 |
 | DACIA | 62 |
 | DFSK | 1 |
 | DODGE | 1 |
@@ -32,6 +32,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | DS | 79 |
 | FERRARI | 11 |
 | FIAT | 110 |
+| FOLRD TOURNEO | 1 |
 | FORD | 99 |
 | GEELY | 2 |
 | GMC | 2 |
@@ -47,7 +48,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | JEEP | 76 |
 | JMC | 2 |
 | KIA | 48 |
-| LAMBORGHINI | 276 |
+| LAMBORGHINI | 277 |
 | LANCIA | 74 |
 | LAND ROVER | 43 |
 | LDV | 3 |
@@ -67,14 +68,14 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | NISSAN | 67 |
 | OPEL | 126 |
 | PEUGEOT | 122 |
-| PORSCHE | 291 |
+| PORSCHE | 292 |
 | RAM | 68 |
 | RENAULT | 80 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 12 |
 | SAIC | 2 |
-| SEAT | 281 |
+| SEAT | 282 |
 | SKODA | 285 |
 | SMART | 156 |
 | SSANGYONG | 6 |
@@ -83,7 +84,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | TATA | 3 |
 | TOYOTA | 36 |
 | VAUXHALL | 109 |
-| VOLKSWAGEN | 315 |
+| VOLKSWAGEN | 316 |
 | VOLVO | 46 |
 
 
