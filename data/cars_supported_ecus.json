@@ -1,7 +1,7 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5150,
+  "ecu_count": 5157,
   "byBrand": {
     "BMW": [
       "8HP",
@@ -2843,6 +2843,7 @@
       "EDC15VMP",
       "EDC16+",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -3445,6 +3446,7 @@
       "EDC15VM",
       "EDC15VMP",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -4015,6 +4017,7 @@
       "EDC15VM",
       "EDC15VMP",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -4291,6 +4294,7 @@
       "EDC15VM",
       "EDC15VMP",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -4585,6 +4589,7 @@
       "EDC15VM",
       "EDC15VMP",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -4862,6 +4867,7 @@
       "EDC15VM",
       "EDC15VMP",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -5308,6 +5314,9 @@
     ],
     "DODGE": [
       "EDC17C79"
+    ],
+    "FOLRD TOURNEO": [
+      "MD1CS005"
     ]
   }
 }
