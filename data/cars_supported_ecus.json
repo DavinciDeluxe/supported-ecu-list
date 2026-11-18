@@ -1,7 +1,7 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5157,
+  "ecu_count": 5159,
   "byBrand": {
     "BMW": [
       "8HP",
@@ -1020,6 +1020,7 @@
       "SIM2K-141",
       "SIM2K-245",
       "SIM2K-250",
+      "SIM2K-510",
       "SIMK41"
     ],
     "KIA": [
@@ -1070,6 +1071,7 @@
       "SIM2K-253",
       "SIM2K-260",
       "SIM2K-341",
+      "SIM2K-510",
       "SIMK41"
     ],
     "ISUZU": [
