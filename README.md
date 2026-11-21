@@ -1,19 +1,19 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,099+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **5,117+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
 | Vehicle Brand | Supported ECU Models |
 | :--- | :---: |
-| ABARTH | 47 |
-| ALFA ROMEO | 81 |
+| ABARTH | 48 |
+| ALFA ROMEO | 82 |
 | ALPINA | 2 |
 | ALPINE | 53 |
 | ASTON MARTIN | 4 |
-| AUDI | 292 |
-| BENTLEY | 276 |
+| AUDI | 293 |
+| BENTLEY | 278 |
 | BMW | 158 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
@@ -21,10 +21,10 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHANGAN | 2 |
 | CHERY | 2 |
 | CHEVROLET | 120 |
-| CHRYSLER | 74 |
+| CHRYSLER | 75 |
 | CHUANQI | 1 |
 | CITROËN | 112 |
-| CUPRA | 276 |
+| CUPRA | 278 |
 | DACIA | 62 |
 | DFSK | 1 |
 | DODGE | 1 |
@@ -45,11 +45,11 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ISUZU | 8 |
 | JAC | 6 |
 | JAGUAR | 38 |
-| JEEP | 76 |
+| JEEP | 77 |
 | JMC | 2 |
 | KIA | 49 |
-| LAMBORGHINI | 278 |
-| LANCIA | 74 |
+| LAMBORGHINI | 280 |
+| LANCIA | 75 |
 | LAND ROVER | 43 |
 | LDV | 3 |
 | LEXUS | 19 |
@@ -68,14 +68,14 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | NISSAN | 67 |
 | OPEL | 126 |
 | PEUGEOT | 122 |
-| PORSCHE | 293 |
+| PORSCHE | 295 |
 | RENAULT | 80 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 12 |
 | SAIC | 2 |
-| SEAT | 283 |
-| SKODA | 286 |
+| SEAT | 285 |
+| SKODA | 288 |
 | SMART | 156 |
 | SSANGYONG | 6 |
 | SUBARU | 10 |
