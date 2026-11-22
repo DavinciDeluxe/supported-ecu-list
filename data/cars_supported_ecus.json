@@ -1,7 +1,7 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5117,
+  "ecu_count": 5119,
   "byBrand": {
     "BMW": [
       "8HP",
@@ -2487,6 +2487,7 @@
       "EMS3125",
       "EMS3130",
       "EMS3132",
+      "EMS3141",
       "EMS314X",
       "EMS3150",
       "EMS3155",
@@ -5275,6 +5276,9 @@
     ],
     "FOLRD TOURNEO": [
       "MD1CS005"
+    ],
+    "JAGUAR XJ": [
+      "EDC17CP11"
     ]
   }
 }
