@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,117+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **5,119+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -45,6 +45,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ISUZU | 8 |
 | JAC | 6 |
 | JAGUAR | 38 |
+| JAGUAR XJ | 1 |
 | JEEP | 77 |
 | JMC | 2 |
 | KIA | 49 |
@@ -65,7 +66,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MG | 6 |
 | MINI | 141 |
 | MITSUBISHI | 23 |
-| NISSAN | 67 |
+| NISSAN | 68 |
 | OPEL | 126 |
 | PEUGEOT | 122 |
 | PORSCHE | 295 |
