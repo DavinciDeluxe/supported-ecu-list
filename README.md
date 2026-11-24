@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,119+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **5,139+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -10,11 +10,11 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ABARTH | 48 |
 | ALFA ROMEO | 82 |
 | ALPINA | 2 |
-| ALPINE | 53 |
+| ALPINE | 54 |
 | ASTON MARTIN | 4 |
 | AUDI | 293 |
-| BENTLEY | 278 |
-| BMW | 158 |
+| BENTLEY | 280 |
+| BMW | 159 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
 | CADILLAC | 4 |
@@ -24,14 +24,14 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHRYSLER | 75 |
 | CHUANQI | 1 |
 | CITROËN | 112 |
-| CUPRA | 278 |
+| CUPRA | 280 |
 | DACIA | 62 |
 | DFSK | 1 |
 | DODGE | 1 |
 | DONKERVOORT | 1 |
 | DS | 79 |
 | FERRARI | 11 |
-| FIAT | 110 |
+| FIAT | 111 |
 | FOLRD TOURNEO | 1 |
 | FORD | 99 |
 | GEELY | 2 |
@@ -41,7 +41,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | HOLDEN | 2 |
 | HONDA | 15 |
 | HYUNDAI | 53 |
-| INFINITI | 55 |
+| INFINITI | 56 |
 | ISUZU | 8 |
 | JAC | 6 |
 | JAGUAR | 38 |
@@ -49,7 +49,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | JEEP | 77 |
 | JMC | 2 |
 | KIA | 49 |
-| LAMBORGHINI | 280 |
+| LAMBORGHINI | 282 |
 | LANCIA | 75 |
 | LAND ROVER | 43 |
 | LDV | 3 |
@@ -66,17 +66,17 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MG | 6 |
 | MINI | 141 |
 | MITSUBISHI | 23 |
-| NISSAN | 68 |
+| NISSAN | 69 |
 | OPEL | 126 |
 | PEUGEOT | 122 |
-| PORSCHE | 295 |
+| PORSCHE | 297 |
 | RENAULT | 80 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 12 |
 | SAIC | 2 |
-| SEAT | 285 |
-| SKODA | 288 |
+| SEAT | 287 |
+| SKODA | 290 |
 | SMART | 156 |
 | SSANGYONG | 6 |
 | SUBARU | 10 |
@@ -84,8 +84,8 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | TATA | 3 |
 | TOYOTA | 36 |
 | VAUXHALL | 109 |
-| VOLKSWAGEN | 317 |
-| VOLVO | 46 |
+| VOLKSWAGEN | 319 |
+| VOLVO | 47 |
 
 
 ---
