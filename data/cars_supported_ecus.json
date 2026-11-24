@@ -1,9 +1,10 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5119,
+  "ecu_count": 5139,
   "byBrand": {
     "BMW": [
+      "6HP",
       "8HP",
       "8HP70",
       "BMS",
@@ -407,6 +408,7 @@
       "MM6JF",
       "MM8GMF",
       "MM8GMK",
+      "MM8GML",
       "MM8GMW",
       "MM8GSF",
       "MM8GSW",
@@ -1694,7 +1696,7 @@
       "GMPT-E15",
       "M1.5.5",
       "MD1CS003",
-      "ME.1.5.5",
+      "ME1.5.5",
       "ME17.8.8",
       "ME3.1.1",
       "ME7.1-ME7.1.1",
@@ -2522,6 +2524,7 @@
       "SID310",
       "SID321",
       "SIM32",
+      "SIRIUS32",
       "SIRIUS34",
       "V42",
       "V50.1"
@@ -2579,6 +2582,7 @@
       "SID310",
       "SID321",
       "SIM32",
+      "SIRIUS32",
       "SIRIUS34",
       "V42",
       "V50.1"
@@ -2634,6 +2638,7 @@
       "SID310",
       "SID321",
       "SIM32",
+      "SIRIUS32",
       "SIRIUS34",
       "V42",
       "V50.1"
@@ -2759,6 +2764,7 @@
       "DL381",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DME",
       "DQ200",
@@ -3056,6 +3062,7 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
+      "VL381",
       "ZF6HP19"
     ],
     "AUDI": [
@@ -3368,6 +3375,7 @@
       "DDE",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DQ200",
       "DQ200 GEN2",
@@ -3638,6 +3646,7 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
+      "VL381",
       "ZF6HP19"
     ],
     "SKODA": [
@@ -3655,6 +3664,7 @@
       "DDE",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DQ200",
       "DQ200 GEN2",
@@ -3928,6 +3938,7 @@
       "SIMOS9.1",
       "SIMOS9.X",
       "SIMOSPPD1.2",
+      "VL381",
       "ZF6HP19"
     ],
     "CUPRA": [
@@ -3945,6 +3956,7 @@
       "DDE",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DQ200",
       "DQ200 GEN2",
@@ -4208,6 +4220,7 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
+      "VL381",
       "ZF6HP19"
     ],
     "PORSCHE": [
@@ -4225,6 +4238,7 @@
       "DDE",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DQ200",
       "DQ200 GEN2",
@@ -4505,6 +4519,7 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
+      "VL381",
       "ZF6HP19"
     ],
     "LAMBORGHINI": [
@@ -4523,6 +4538,7 @@
       "DDE",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DQ200",
       "DQ200 GEN2",
@@ -4787,6 +4803,7 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
+      "VL381",
       "ZF6HP19"
     ],
     "BENTLEY": [
@@ -4804,6 +4821,7 @@
       "DDE",
       "DL382",
       "DL501",
+      "DL501 GEN1",
       "DL501 GEN2",
       "DQ200",
       "DQ200 GEN2",
@@ -5067,6 +5085,7 @@
       "SIMOS8.X",
       "SIMOS9.1",
       "SIMOS9.X",
+      "VL381",
       "ZF6HP19"
     ],
     "VOLVO": [
@@ -5082,6 +5101,7 @@
       "EDC17CP68",
       "EDCC5",
       "EMS",
+      "EMS2",
       "EMS2.3",
       "EMS2000",
       "M4.4",
