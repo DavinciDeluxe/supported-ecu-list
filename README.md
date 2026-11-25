@@ -1,8 +1,8 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,139+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
-- **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 82 brands** (`data/trucks_supported_ecus.json`)
+- **Cars & Light Vans:** **5,167+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 104 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
 | Vehicle Brand | Supported ECU Models |
@@ -10,11 +10,11 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ABARTH | 48 |
 | ALFA ROMEO | 82 |
 | ALPINA | 2 |
-| ALPINE | 54 |
+| ALPINE | 55 |
 | ASTON MARTIN | 4 |
-| AUDI | 293 |
-| BENTLEY | 280 |
-| BMW | 159 |
+| AUDI | 294 |
+| BENTLEY | 281 |
+| BMW | 161 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
 | CADILLAC | 4 |
@@ -24,32 +24,32 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHRYSLER | 75 |
 | CHUANQI | 1 |
 | CITROËN | 112 |
-| CUPRA | 280 |
-| DACIA | 62 |
+| CUPRA | 281 |
+| DACIA | 63 |
 | DFSK | 1 |
 | DODGE | 1 |
 | DONKERVOORT | 1 |
 | DS | 79 |
 | FERRARI | 11 |
-| FIAT | 111 |
+| FIAT | 112 |
 | FOLRD TOURNEO | 1 |
 | FORD | 99 |
 | GEELY | 2 |
 | GMC | 2 |
 | GREAT WALL | 5 |
 | HAVAL | 1 |
-| HOLDEN | 2 |
+| HOLDEN | 3 |
 | HONDA | 15 |
 | HYUNDAI | 53 |
-| INFINITI | 56 |
-| ISUZU | 8 |
+| INFINITI | 57 |
+| ISUZU | 9 |
 | JAC | 6 |
 | JAGUAR | 38 |
 | JAGUAR XJ | 1 |
 | JEEP | 77 |
 | JMC | 2 |
 | KIA | 49 |
-| LAMBORGHINI | 282 |
+| LAMBORGHINI | 283 |
 | LANCIA | 75 |
 | LAND ROVER | 43 |
 | LDV | 3 |
@@ -59,32 +59,32 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MAHINDRA | 4 |
 | MASERATI | 6 |
 | MAXUS | 2 |
-| MAYBACH | 146 |
+| MAYBACH | 148 |
 | MAZDA | 23 |
 | MCLAREN | 3 |
-| MERCEDES-BENZ | 146 |
+| MERCEDES-BENZ | 148 |
 | MG | 6 |
 | MINI | 141 |
 | MITSUBISHI | 23 |
-| NISSAN | 69 |
+| NISSAN | 71 |
 | OPEL | 126 |
 | PEUGEOT | 122 |
-| PORSCHE | 297 |
-| RENAULT | 80 |
+| PORSCHE | 298 |
+| RENAULT | 81 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 12 |
 | SAIC | 2 |
-| SEAT | 287 |
-| SKODA | 290 |
-| SMART | 156 |
+| SEAT | 289 |
+| SKODA | 292 |
+| SMART | 158 |
 | SSANGYONG | 6 |
 | SUBARU | 10 |
 | SUZUKI | 32 |
 | TATA | 3 |
 | TOYOTA | 36 |
 | VAUXHALL | 109 |
-| VOLKSWAGEN | 319 |
+| VOLKSWAGEN | 321 |
 | VOLVO | 47 |
 
 
