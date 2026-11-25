@@ -1,7 +1,7 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5139,
+  "ecu_count": 5167,
   "byBrand": {
     "BMW": [
       "6HP",
@@ -50,6 +50,8 @@
       "EDC17CP50",
       "EMS2",
       "EMS2000",
+      "M3.1",
+      "M3.3",
       "M5.2",
       "M5.2.1",
       "MD1CP002",
@@ -350,6 +352,7 @@
       "GPEC3",
       "GPEC4",
       "GPEC4LM",
+      "H1C445W",
       "IAW4AF-59F",
       "IAW4SF",
       "IAW5AF",
@@ -1014,6 +1017,7 @@
     "ISUZU": [
       "EDC15",
       "EDC17C09",
+      "EDC17C49",
       "EDC17C81",
       "EDC17C83",
       "EDC17CP45-CP49",
@@ -1157,6 +1161,7 @@
       "5WK9",
       "9G-TRONIC",
       "CDID",
+      "CDR2",
       "CR1",
       "CR1.7 2.2",
       "CRD",
@@ -1298,6 +1303,7 @@
       "SIM4LKE",
       "SIMK",
       "SIMOS18",
+      "V51 - V58",
       "VGS2",
       "VGS2 NAG2"
     ],
@@ -1305,6 +1311,7 @@
       "5WK9",
       "9G-TRONIC",
       "CDID",
+      "CDR2",
       "CR1",
       "CR1.7 2.2",
       "CRD",
@@ -1456,6 +1463,7 @@
       "SIM4LKE",
       "SIMK",
       "SIMOS18",
+      "V51 - V58",
       "VGS2",
       "VGS2 NAG2"
     ],
@@ -1463,6 +1471,7 @@
       "5WK9",
       "9G-TRONIC",
       "CDID",
+      "CDR2",
       "CR1",
       "CR1.7 2.2",
       "CRD",
@@ -1604,6 +1613,7 @@
       "SIM4LKE",
       "SIMK",
       "SIMOS18",
+      "V51 - V58",
       "VGS2",
       "VGS2 NAG2"
     ],
@@ -2316,6 +2326,7 @@
       "DCM3.2",
       "DCM3.4",
       "DCM3.7",
+      "DCU17PC42",
       "DDCR_-DCM1.2",
       "EDC15",
       "EDC15C",
@@ -2396,6 +2407,7 @@
     ],
     "DACIA": [
       "DCM3.4",
+      "DCU17PC42",
       "DDCR-DCM1.2",
       "EDC15",
       "EDC15C",
@@ -2459,7 +2471,9 @@
       "VD50.1"
     ],
     "NISSAN": [
+      "CM3230",
       "DCM3.4",
+      "DCU17PC42",
       "DDCR-DCM1.2",
       "DENSON",
       "EDC15",
@@ -2532,6 +2546,7 @@
     "INFINITI": [
       "CRD3",
       "DCM3.4",
+      "DCU17PC42",
       "DDCR-DCM1.2",
       "EDC15",
       "EDC15C",
@@ -2589,6 +2604,7 @@
     ],
     "ALPINE": [
       "DCM3.4",
+      "DCU17PC42",
       "DDCR-DCM1.2",
       "EDC15",
       "EDC15C",
@@ -2745,6 +2761,7 @@
       "SID805"
     ],
     "VOLKSWAGEN": [
+      "0D9300040J",
       "5WP4",
       "AG6",
       "AL1000",
@@ -3007,6 +3024,7 @@
       "SIMOS",
       "SIMOS 3PE 4726",
       "SIMOS PCR 2.1",
+      "SIMOS PPD 1.2",
       "SIMOS10",
       "SIMOS10.1.0",
       "SIMOS10.12",
@@ -3336,6 +3354,7 @@
       "SIMOS18.X",
       "SIMOS19",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -3361,6 +3380,7 @@
       "ZF6HP19"
     ],
     "SEAT": [
+      "0D9300020",
       "AL1000",
       "AL551",
       "AL552",
@@ -3628,6 +3648,7 @@
       "SIMOS18.X",
       "SIMOS19",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -3650,6 +3671,7 @@
       "ZF6HP19"
     ],
     "SKODA": [
+      "7GV",
       "AL1000",
       "AL551",
       "AL552",
@@ -3919,6 +3941,7 @@
       "SIMOS19",
       "SIMOS19.6",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -4202,6 +4225,7 @@
       "SIMOS18.X",
       "SIMOS19",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -4501,6 +4525,7 @@
       "SIMOS18.X",
       "SIMOS19",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -4785,6 +4810,7 @@
       "SIMOS18.X",
       "SIMOS19",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -5067,6 +5093,7 @@
       "SIMOS18.X",
       "SIMOS19",
       "SIMOS2",
+      "SIMOS20",
       "SIMOS3",
       "SIMOS3.2",
       "SIMOS3.3",
@@ -5257,6 +5284,7 @@
     ],
     "HOLDEN": [
       "DCM3.7",
+      "E98",
       "EDC16C39"
     ],
     "MCLAREN": [
