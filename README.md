@@ -1,7 +1,7 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,167+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Cars & Light Vans:** **5,188+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
 - **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 104 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
@@ -10,10 +10,10 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ABARTH | 48 |
 | ALFA ROMEO | 82 |
 | ALPINA | 2 |
-| ALPINE | 55 |
+| ALPINE | 60 |
 | ASTON MARTIN | 4 |
 | AUDI | 294 |
-| BENTLEY | 281 |
+| BENTLEY | 282 |
 | BMW | 161 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
@@ -24,12 +24,12 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | CHRYSLER | 75 |
 | CHUANQI | 1 |
 | CITROËN | 112 |
-| CUPRA | 281 |
-| DACIA | 63 |
+| CUPRA | 282 |
+| DACIA | 65 |
 | DFSK | 1 |
 | DODGE | 1 |
 | DONKERVOORT | 1 |
-| DS | 79 |
+| DS | 80 |
 | FERRARI | 11 |
 | FIAT | 112 |
 | FOLRD TOURNEO | 1 |
@@ -41,7 +41,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | HOLDEN | 3 |
 | HONDA | 15 |
 | HYUNDAI | 53 |
-| INFINITI | 57 |
+| INFINITI | 62 |
 | ISUZU | 9 |
 | JAC | 6 |
 | JAGUAR | 38 |
@@ -49,7 +49,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | JEEP | 77 |
 | JMC | 2 |
 | KIA | 49 |
-| LAMBORGHINI | 283 |
+| LAMBORGHINI | 284 |
 | LANCIA | 75 |
 | LAND ROVER | 43 |
 | LDV | 3 |
@@ -66,17 +66,17 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MG | 6 |
 | MINI | 141 |
 | MITSUBISHI | 23 |
-| NISSAN | 71 |
+| NISSAN | 73 |
 | OPEL | 126 |
 | PEUGEOT | 122 |
-| PORSCHE | 298 |
+| PORSCHE | 299 |
 | RENAULT | 81 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 12 |
 | SAIC | 2 |
-| SEAT | 289 |
-| SKODA | 292 |
+| SEAT | 290 |
+| SKODA | 293 |
 | SMART | 158 |
 | SSANGYONG | 6 |
 | SUBARU | 10 |
