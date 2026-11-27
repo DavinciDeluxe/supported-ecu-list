@@ -1,8 +1,8 @@
 # DaVinci Deluxe Cloud Edition — Live Supported ECU List (Cars · Trucks · Boats)
 
 Machine-readable coverage directory synchronized from the live **DaVinci Deluxe Cloud Edition (v1.0.45)** engines:
-- **Cars & Light Vans:** **5,188+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
-- **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 104 brands** (`data/trucks_supported_ecus.json`)
+- **Cars & Light Vans:** **5,193+ ECUs across 82 brands** (`data/cars_supported_ecus.json`)
+- **Trucks, Agriculture & Heavy-Duty:** **452+ ECUs across 105 brands** (`data/trucks_supported_ecus.json`)
 - **Boats, Outboards, Inboards & PWC:** **30+ Marine Propulsion Brands** (`data/marine_supported_brands.json` · [davincideluxe.fr/boats](https://www.davincideluxe.fr/boats))
 
 | Vehicle Brand | Supported ECU Models |
@@ -14,7 +14,7 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | ASTON MARTIN | 4 |
 | AUDI | 294 |
 | BENTLEY | 282 |
-| BMW | 161 |
+| BMW | 164 |
 | BORGWARD | 1 |
 | BRILLIANCE | 1 |
 | CADILLAC | 4 |
@@ -67,10 +67,10 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | MINI | 141 |
 | MITSUBISHI | 23 |
 | NISSAN | 73 |
-| OPEL | 126 |
+| OPEL | 127 |
 | PEUGEOT | 122 |
 | PORSCHE | 299 |
-| RENAULT | 81 |
+| RENAULT | 82 |
 | ROEWE | 1 |
 | ROVER | 6 |
 | SAAB | 12 |
@@ -83,9 +83,9 @@ Machine-readable coverage directory synchronized from the live **DaVinci Deluxe 
 | SUZUKI | 32 |
 | TATA | 3 |
 | TOYOTA | 36 |
-| VAUXHALL | 109 |
+| VAUXHALL | 110 |
 | VOLKSWAGEN | 321 |
-| VOLVO | 47 |
+| VOLVO | 46 |
 
 
 ---
