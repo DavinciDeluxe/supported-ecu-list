@@ -1,7 +1,7 @@
 {
   "version": "v1.0.45",
   "brand_count": 82,
-  "ecu_count": 5193,
+  "ecu_count": 5202,
   "byBrand": {
     "PEUGEOT": [
       "DCM3.4",
@@ -135,6 +135,7 @@
       "EDC16C39",
       "EDC17C49",
       "EDC17C84",
+      "EDC17CP04",
       "EDC17CP14",
       "GPEC2",
       "GPEC2A",
@@ -715,7 +716,6 @@
       "DME",
       "DME MS41",
       "DMS",
-      "EDC",
       "EDC15",
       "EDC15C",
       "EDC15C4",
@@ -1295,10 +1295,6 @@
     "BRILLIANCE": [
       "ME7.8.8"
     ],
-    "CHERY": [
-      "ME7.8",
-      "ME7.9.7"
-    ],
     "CHEVROLET": [
       "5WY8",
       "9GF",
@@ -1551,6 +1547,10 @@
       "EDC17C81",
       "ME7.8.8",
       "MT92"
+    ],
+    "CHERY": [
+      "ME7.8",
+      "ME7.9.7"
     ],
     "CHRYSLER": [
       "8GMF",
@@ -2026,6 +2026,7 @@
       "EMS3125",
       "EMS3130",
       "EMS3132",
+      "EMS3134",
       "EMS314X",
       "EMS3150",
       "EMS3155",
@@ -2607,6 +2608,7 @@
       "VDO"
     ],
     "FERRARI": [
+      "CRD11",
       "EDC17C64",
       "ME7.1.1",
       "ME7.3",
@@ -2755,6 +2757,7 @@
       "CPEGD2.20.2",
       "CPEGD2.20.3",
       "CPEGD2.20.4",
+      "CPEGD3.20.1",
       "CPGDSH2.2",
       "CRDI",
       "DCM1.2",
@@ -2893,6 +2896,7 @@
       "EMS3125",
       "EMS3130",
       "EMS3132",
+      "EMS3134",
       "EMS314X",
       "EMS3150",
       "EMS3155",
@@ -3344,6 +3348,7 @@
       "GEN1",
       "GEN2",
       "GEN3",
+      "GEN4",
       "ME17.9.52",
       "MG1CS201",
       "NEC",
@@ -3356,12 +3361,6 @@
     "LOTUS": [
       "MED17.1.6X",
       "MPC5534"
-    ],
-    "MAHINDRA": [
-      "EDC17C53",
-      "EDC17C55",
-      "EDC17C81",
-      "MD1CS018"
     ],
     "MASERATI": [
       "EDC17C79",
@@ -3743,6 +3742,13 @@
       "SID807",
       "SID807EVO"
     ],
+    "MAHINDRA": [
+      "DCM2.5",
+      "EDC17C53",
+      "EDC17C55",
+      "EDC17C81",
+      "MD1CS018"
+    ],
     "MCLAREN": [
       "ME17.8.3",
       "ME17.8.32",
@@ -3781,6 +3787,7 @@
       "EMS3125",
       "EMS3130",
       "EMS3132",
+      "EMS3134",
       "EMS3141",
       "EMS314X",
       "EMS3150",
@@ -4130,7 +4137,6 @@
       "DCM3.7",
       "DCU17PC42",
       "DDCR_-DCM1.2",
-      "EDC",
       "EDC15",
       "EDC15C",
       "EDC15C13",
@@ -4238,6 +4244,7 @@
       "EMS3125",
       "EMS3130",
       "EMS3132",
+      "EMS3134",
       "EMS314X",
       "EMS3150",
       "EMS3155",
@@ -4962,6 +4969,7 @@
       "GEN1",
       "GEN2",
       "GEN3",
+      "GEN4",
       "M7.9.4",
       "MD1CS003",
       "ME17.9.25",
@@ -5319,6 +5327,7 @@
       "EDC17CP68",
       "EDCC5",
       "EMS",
+      "EMS2",
       "EMS2.3",
       "EMS2000",
       "M4.4",
